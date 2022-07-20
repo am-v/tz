@@ -5,7 +5,8 @@
         "tag": "DST",
         "offset": -12,
         "text": "(UTC-12:00) International Date Line West",
-        "name": "Dateline Standard Time"
+        "name": "Dateline Standard Time",
+        "term": "DST Etc/GMT+12 (UTC-12:00) International Date Line West"
     },
     {
         "id": "10",
@@ -13,7 +14,8 @@
         "tag": "U",
         "offset": -11,
         "text": "(UTC-11:00) Coordinated Universal Time-11",
-        "name": "UTC-11"
+        "name": "UTC-11",
+        "term": "U Etc/GMT+11 (UTC-11:00) Coordinated Universal Time-11"
     },
     {
         "id": "11",
@@ -21,7 +23,8 @@
         "tag": "U",
         "offset": -11,
         "text": "(UTC-11:00) Coordinated Universal Time-11",
-        "name": "UTC-11"
+        "name": "UTC-11",
+        "term": "U Pacific/Midway (UTC-11:00) Coordinated Universal Time-11"
     },
     {
         "id": "12",
@@ -29,7 +32,8 @@
         "tag": "U",
         "offset": -11,
         "text": "(UTC-11:00) Coordinated Universal Time-11",
-        "name": "UTC-11"
+        "name": "UTC-11",
+        "term": "U Pacific/Niue (UTC-11:00) Coordinated Universal Time-11"
     },
     {
         "id": "13",
@@ -37,7 +41,8 @@
         "tag": "U",
         "offset": -11,
         "text": "(UTC-11:00) Coordinated Universal Time-11",
-        "name": "UTC-11"
+        "name": "UTC-11",
+        "term": "U Pacific/Pago Pago (UTC-11:00) Coordinated Universal Time-11"
     },
     {
         "id": "20",
@@ -45,7 +50,8 @@
         "tag": "HST",
         "offset": -10,
         "text": "(UTC-10:00) Hawaii",
-        "name": "Hawaiian Standard Time"
+        "name": "Hawaiian Standard Time",
+        "term": "HST Etc/GMT+10 (UTC-10:00) Hawaii"
     },
     {
         "id": "21",
@@ -53,7 +59,8 @@
         "tag": "HST",
         "offset": -10,
         "text": "(UTC-10:00) Hawaii",
-        "name": "Hawaiian Standard Time"
+        "name": "Hawaiian Standard Time",
+        "term": "HST Pacific/Honolulu (UTC-10:00) Hawaii"
     },
     {
         "id": "22",
@@ -61,7 +68,8 @@
         "tag": "HST",
         "offset": -10,
         "text": "(UTC-10:00) Hawaii",
-        "name": "Hawaiian Standard Time"
+        "name": "Hawaiian Standard Time",
+        "term": "HST Pacific/Johnston (UTC-10:00) Hawaii"
     },
     {
         "id": "23",
@@ -69,7 +77,8 @@
         "tag": "HST",
         "offset": -10,
         "text": "(UTC-10:00) Hawaii",
-        "name": "Hawaiian Standard Time"
+        "name": "Hawaiian Standard Time",
+        "term": "HST Pacific/Rarotonga (UTC-10:00) Hawaii"
     },
     {
         "id": "24",
@@ -77,7 +86,8 @@
         "tag": "HST",
         "offset": -10,
         "text": "(UTC-10:00) Hawaii",
-        "name": "Hawaiian Standard Time"
+        "name": "Hawaiian Standard Time",
+        "term": "HST Pacific/Tahiti (UTC-10:00) Hawaii"
     },
     {
         "id": "30",
@@ -85,7 +95,8 @@
         "tag": "AKDT",
         "offset": -8,
         "text": "(UTC-09:00) Alaska",
-        "name": "Alaskan Standard Time"
+        "name": "Alaskan Standard Time",
+        "term": "AKDT America/Anchorage (UTC-09:00) Alaska"
     },
     {
         "id": "31",
@@ -93,7 +104,8 @@
         "tag": "AKDT",
         "offset": -8,
         "text": "(UTC-09:00) Alaska",
-        "name": "Alaskan Standard Time"
+        "name": "Alaskan Standard Time",
+        "term": "AKDT America/Juneau (UTC-09:00) Alaska"
     },
     {
         "id": "32",
@@ -101,7 +113,8 @@
         "tag": "AKDT",
         "offset": -8,
         "text": "(UTC-09:00) Alaska",
-        "name": "Alaskan Standard Time"
+        "name": "Alaskan Standard Time",
+        "term": "AKDT America/Nome (UTC-09:00) Alaska"
     },
     {
         "id": "33",
@@ -109,7 +122,8 @@
         "tag": "AKDT",
         "offset": -8,
         "text": "(UTC-09:00) Alaska",
-        "name": "Alaskan Standard Time"
+        "name": "Alaskan Standard Time",
+        "term": "AKDT America/Sitka (UTC-09:00) Alaska"
     },
     {
         "id": "34",
@@ -117,7 +131,8 @@
         "tag": "AKDT",
         "offset": -8,
         "text": "(UTC-09:00) Alaska",
-        "name": "Alaskan Standard Time"
+        "name": "Alaskan Standard Time",
+        "term": "AKDT America/Yakutat (UTC-09:00) Alaska"
     },
     {
         "id": "40",
@@ -125,7 +140,8 @@
         "tag": "PDT",
         "offset": -7,
         "text": "(UTC-08:00) Baja California",
-        "name": "Pacific Standard Time (Mexico)"
+        "name": "Pacific Standard Time (Mexico)",
+        "term": "PDT America/Santa Isabel (UTC-08:00) Baja California"
     },
     {
         "id": "50",
@@ -133,7 +149,8 @@
         "tag": "PDT",
         "offset": -7,
         "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
-        "name": "Pacific Daylight Time"
+        "name": "Pacific Daylight Time",
+        "term": "PDT America/Los Angeles (UTC-07:00) Pacific Daylight Time (US & Canada) PST"
     },
     {
         "id": "51",
@@ -141,7 +158,8 @@
         "tag": "PDT",
         "offset": -7,
         "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
-        "name": "Pacific Daylight Time"
+        "name": "Pacific Daylight Time",
+        "term": "PDT America/Tijuana (UTC-07:00) Pacific Daylight Time (US & Canada) PST"
     },
     {
         "id": "52",
@@ -149,31 +167,8 @@
         "tag": "PDT",
         "offset": -7,
         "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
-        "name": "Pacific Daylight Time"
-    },
-    {
-        "id": "60",
-        "code": "America/Los_Angeles",
-        "tag": "PST",
-        "offset": -8,
-        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
-        "name": "Pacific Standard Time"
-    },
-    {
-        "id": "61",
-        "code": "America/Tijuana",
-        "tag": "PST",
-        "offset": -8,
-        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
-        "name": "Pacific Standard Time"
-    },
-    {
-        "id": "62",
-        "code": "America/Vancouver",
-        "tag": "PST",
-        "offset": -8,
-        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
-        "name": "Pacific Standard Time"
+        "name": "Pacific Daylight Time",
+        "term": "PDT America/Vancouver (UTC-07:00) Pacific Daylight Time (US & Canada) PST"
     },
     {
         "id": "63",
@@ -181,7 +176,8 @@
         "tag": "PST",
         "offset": -8,
         "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
-        "name": "Pacific Standard Time"
+        "name": "Pacific Standard Time",
+        "term": "PST PST8PDT (UTC-08:00) Pacific Standard Time (US & Canada)"
     },
     {
         "id": "70",
@@ -189,7 +185,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Creston (UTC-07:00) Arizona"
     },
     {
         "id": "71",
@@ -197,7 +194,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Dawson (UTC-07:00) Arizona"
     },
     {
         "id": "72",
@@ -205,7 +203,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Dawson Creek (UTC-07:00) Arizona"
     },
     {
         "id": "73",
@@ -213,7 +212,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Hermosillo (UTC-07:00) Arizona"
     },
     {
         "id": "74",
@@ -221,7 +221,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Phoenix (UTC-07:00) Arizona"
     },
     {
         "id": "75",
@@ -229,7 +230,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST America/Whitehorse (UTC-07:00) Arizona"
     },
     {
         "id": "76",
@@ -237,7 +239,8 @@
         "tag": "UMST",
         "offset": -7,
         "text": "(UTC-07:00) Arizona",
-        "name": "US Mountain Standard Time"
+        "name": "US Mountain Standard Time",
+        "term": "UMST Etc/GMT+7 (UTC-07:00) Arizona"
     },
     {
         "id": "80",
@@ -245,7 +248,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
-        "name": "Mountain Standard Time (Mexico)"
+        "name": "Mountain Standard Time (Mexico)",
+        "term": "MDT America/Chihuahua (UTC-07:00) Chihuahua, La Paz, Mazatlan"
     },
     {
         "id": "81",
@@ -253,7 +257,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
-        "name": "Mountain Standard Time (Mexico)"
+        "name": "Mountain Standard Time (Mexico)",
+        "term": "MDT America/Mazatlan (UTC-07:00) Chihuahua, La Paz, Mazatlan"
     },
     {
         "id": "90",
@@ -261,7 +266,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Boise (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "91",
@@ -269,7 +275,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Cambridge Bay (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "92",
@@ -277,7 +284,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Denver (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "93",
@@ -285,7 +293,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Edmonton (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "94",
@@ -293,7 +302,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Inuvik (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "95",
@@ -301,7 +311,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Ojinaga (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "96",
@@ -309,7 +320,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT America/Yellowknife (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "97",
@@ -317,7 +329,8 @@
         "tag": "MDT",
         "offset": -6,
         "text": "(UTC-07:00) Mountain Time (US & Canada)",
-        "name": "Mountain Standard Time"
+        "name": "Mountain Standard Time",
+        "term": "MDT MST7MDT (UTC-07:00) Mountain Time (US & Canada)"
     },
     {
         "id": "100",
@@ -325,7 +338,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/Belize (UTC-06:00) Central America"
     },
     {
         "id": "101",
@@ -333,7 +347,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/Costa Rica (UTC-06:00) Central America"
     },
     {
         "id": "102",
@@ -341,7 +356,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/El Salvador (UTC-06:00) Central America"
     },
     {
         "id": "103",
@@ -349,7 +365,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/Guatemala (UTC-06:00) Central America"
     },
     {
         "id": "104",
@@ -357,7 +374,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/Managua (UTC-06:00) Central America"
     },
     {
         "id": "105",
@@ -365,7 +383,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST America/Tegucigalpa (UTC-06:00) Central America"
     },
     {
         "id": "106",
@@ -373,7 +392,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST Etc/GMT+6 (UTC-06:00) Central America"
     },
     {
         "id": "107",
@@ -381,7 +401,8 @@
         "tag": "CAST",
         "offset": -6,
         "text": "(UTC-06:00) Central America",
-        "name": "Central America Standard Time"
+        "name": "Central America Standard Time",
+        "term": "CAST Pacific/Galapagos (UTC-06:00) Central America"
     },
     {
         "id": "110",
@@ -389,7 +410,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Chicago (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "111",
@@ -397,7 +419,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Indiana/Knox (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "112",
@@ -405,7 +428,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Indiana/Tell City (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "113",
@@ -413,7 +437,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Matamoros (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "114",
@@ -421,7 +446,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Menominee (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "115",
@@ -429,7 +455,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/North Dakota/Beulah (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "116",
@@ -437,7 +464,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/North Dakota/Center (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "117",
@@ -445,7 +473,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/North Dakota/New Salem (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "118",
@@ -453,7 +482,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Rainy River (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "119",
@@ -461,7 +491,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Rankin Inlet (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "1110",
@@ -469,7 +500,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Resolute (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "1111",
@@ -477,7 +509,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT America/Winnipeg (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "1112",
@@ -485,7 +518,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Central Time (US & Canada)",
-        "name": "Central Standard Time"
+        "name": "Central Standard Time",
+        "term": "CDT CST6CDT (UTC-06:00) Central Time (US & Canada)"
     },
     {
         "id": "120",
@@ -493,7 +527,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
-        "name": "Central Standard Time (Mexico)"
+        "name": "Central Standard Time (Mexico)",
+        "term": "CDT America/Bahia Banderas (UTC-06:00) Guadalajara, Mexico City, Monterrey"
     },
     {
         "id": "121",
@@ -501,7 +536,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
-        "name": "Central Standard Time (Mexico)"
+        "name": "Central Standard Time (Mexico)",
+        "term": "CDT America/Cancun (UTC-06:00) Guadalajara, Mexico City, Monterrey"
     },
     {
         "id": "122",
@@ -509,7 +545,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
-        "name": "Central Standard Time (Mexico)"
+        "name": "Central Standard Time (Mexico)",
+        "term": "CDT America/Merida (UTC-06:00) Guadalajara, Mexico City, Monterrey"
     },
     {
         "id": "123",
@@ -517,7 +554,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
-        "name": "Central Standard Time (Mexico)"
+        "name": "Central Standard Time (Mexico)",
+        "term": "CDT America/Mexico City (UTC-06:00) Guadalajara, Mexico City, Monterrey"
     },
     {
         "id": "124",
@@ -525,7 +563,8 @@
         "tag": "CDT",
         "offset": -5,
         "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
-        "name": "Central Standard Time (Mexico)"
+        "name": "Central Standard Time (Mexico)",
+        "term": "CDT America/Monterrey (UTC-06:00) Guadalajara, Mexico City, Monterrey"
     },
     {
         "id": "130",
@@ -533,7 +572,8 @@
         "tag": "CCST",
         "offset": -6,
         "text": "(UTC-06:00) Saskatchewan",
-        "name": "Canada Central Standard Time"
+        "name": "Canada Central Standard Time",
+        "term": "CCST America/Regina (UTC-06:00) Saskatchewan"
     },
     {
         "id": "131",
@@ -541,7 +581,8 @@
         "tag": "CCST",
         "offset": -6,
         "text": "(UTC-06:00) Saskatchewan",
-        "name": "Canada Central Standard Time"
+        "name": "Canada Central Standard Time",
+        "term": "CCST America/Swift Current (UTC-06:00) Saskatchewan"
     },
     {
         "id": "140",
@@ -549,7 +590,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Bogota (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "141",
@@ -557,7 +599,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Cayman (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "142",
@@ -565,7 +608,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Coral Harbour (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "143",
@@ -573,7 +617,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Eirunepe (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "144",
@@ -581,7 +626,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Guayaquil (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "145",
@@ -589,7 +635,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Jamaica (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "146",
@@ -597,7 +644,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Lima (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "147",
@@ -605,7 +653,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Panama (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "148",
@@ -613,7 +662,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST America/Rio Branco (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "149",
@@ -621,7 +671,8 @@
         "tag": "SPST",
         "offset": -5,
         "text": "(UTC-05:00) Bogota, Lima, Quito",
-        "name": "SA Pacific Standard Time"
+        "name": "SA Pacific Standard Time",
+        "term": "SPST Etc/GMT+5 (UTC-05:00) Bogota, Lima, Quito"
     },
     {
         "id": "150",
@@ -629,7 +680,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Detroit (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "151",
@@ -637,7 +689,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Havana (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "152",
@@ -645,7 +698,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Indiana/Petersburg (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "153",
@@ -653,7 +707,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Indiana/Vincennes (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "154",
@@ -661,7 +716,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Indiana/Winamac (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "155",
@@ -669,7 +725,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Iqaluit (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "156",
@@ -677,7 +734,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Kentucky/Monticello (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "157",
@@ -685,7 +743,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Louisville (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "158",
@@ -693,7 +752,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Montreal (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "159",
@@ -701,7 +761,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Nassau (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1510",
@@ -709,7 +770,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/New York (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1511",
@@ -717,7 +779,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Nipigon (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1512",
@@ -725,7 +788,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Pangnirtung (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1513",
@@ -733,7 +797,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Port-au-Prince (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1514",
@@ -741,7 +806,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Thunder Bay (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "1515",
@@ -749,135 +815,8 @@
         "tag": "EST",
         "offset": -5,
         "text": "(UTC-05:00) Eastern Time (US & Canada)",
-        "name": "Eastern Standard Time"
-    },
-    {
-        "id": "160",
-        "code": "America/Detroit",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "161",
-        "code": "America/Havana",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "162",
-        "code": "America/Indiana/Petersburg",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "163",
-        "code": "America/Indiana/Vincennes",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "164",
-        "code": "America/Indiana/Winamac",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "165",
-        "code": "America/Iqaluit",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "166",
-        "code": "America/Kentucky/Monticello",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "167",
-        "code": "America/Louisville",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "168",
-        "code": "America/Montreal",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "169",
-        "code": "America/Nassau",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1610",
-        "code": "America/New_York",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1611",
-        "code": "America/Nipigon",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1612",
-        "code": "America/Pangnirtung",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1613",
-        "code": "America/Port-au-Prince",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1614",
-        "code": "America/Thunder_Bay",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
-    },
-    {
-        "id": "1615",
-        "code": "America/Toronto",
-        "tag": "EDT",
-        "offset": -4,
-        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
-        "name": "Eastern Daylight Time"
+        "name": "Eastern Standard Time",
+        "term": "EST America/Toronto (UTC-05:00) Eastern Time (US & Canada) EDT"
     },
     {
         "id": "170",
@@ -885,7 +824,8 @@
         "tag": "UEDT",
         "offset": -5,
         "text": "(UTC-05:00) Indiana (East)",
-        "name": "US Eastern Standard Time"
+        "name": "US Eastern Standard Time",
+        "term": "UEDT America/Indiana/Marengo (UTC-05:00) Indiana (East)"
     },
     {
         "id": "171",
@@ -893,7 +833,8 @@
         "tag": "UEDT",
         "offset": -5,
         "text": "(UTC-05:00) Indiana (East)",
-        "name": "US Eastern Standard Time"
+        "name": "US Eastern Standard Time",
+        "term": "UEDT America/Indiana/Vevay (UTC-05:00) Indiana (East)"
     },
     {
         "id": "172",
@@ -901,7 +842,8 @@
         "tag": "UEDT",
         "offset": -5,
         "text": "(UTC-05:00) Indiana (East)",
-        "name": "US Eastern Standard Time"
+        "name": "US Eastern Standard Time",
+        "term": "UEDT America/Indianapolis (UTC-05:00) Indiana (East)"
     },
     {
         "id": "180",
@@ -909,7 +851,8 @@
         "tag": "VST",
         "offset": -4.5,
         "text": "(UTC-04:30) Caracas",
-        "name": "Venezuela Standard Time"
+        "name": "Venezuela Standard Time",
+        "term": "VST America/Caracas (UTC-04:30) Caracas"
     },
     {
         "id": "190",
@@ -917,7 +860,8 @@
         "tag": "PYT",
         "offset": -4,
         "text": "(UTC-04:00) Asuncion",
-        "name": "Paraguay Standard Time"
+        "name": "Paraguay Standard Time",
+        "term": "PYT America/Asuncion (UTC-04:00) Asuncion"
     },
     {
         "id": "200",
@@ -925,7 +869,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT America/Glace Bay (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "201",
@@ -933,7 +878,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT America/Goose Bay (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "202",
@@ -941,7 +887,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT America/Halifax (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "203",
@@ -949,7 +896,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT America/Moncton (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "204",
@@ -957,7 +905,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT America/Thule (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "205",
@@ -965,7 +914,8 @@
         "tag": "ADT",
         "offset": -3,
         "text": "(UTC-04:00) Atlantic Time (Canada)",
-        "name": "Atlantic Standard Time"
+        "name": "Atlantic Standard Time",
+        "term": "ADT Atlantic/Bermuda (UTC-04:00) Atlantic Time (Canada)"
     },
     {
         "id": "210",
@@ -973,7 +923,8 @@
         "tag": "CBST",
         "offset": -4,
         "text": "(UTC-04:00) Cuiaba",
-        "name": "Central Brazilian Standard Time"
+        "name": "Central Brazilian Standard Time",
+        "term": "CBST America/Campo Grande (UTC-04:00) Cuiaba"
     },
     {
         "id": "211",
@@ -981,7 +932,8 @@
         "tag": "CBST",
         "offset": -4,
         "text": "(UTC-04:00) Cuiaba",
-        "name": "Central Brazilian Standard Time"
+        "name": "Central Brazilian Standard Time",
+        "term": "CBST America/Cuiaba (UTC-04:00) Cuiaba"
     },
     {
         "id": "220",
@@ -989,7 +941,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Anguilla (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "221",
@@ -997,7 +950,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Antigua (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "222",
@@ -1005,7 +959,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Aruba (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "223",
@@ -1013,7 +968,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Barbados (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "224",
@@ -1021,7 +977,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Blanc-Sablon (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "225",
@@ -1029,7 +986,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Boa Vista (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "226",
@@ -1037,7 +995,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Curacao (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "227",
@@ -1045,7 +1004,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Dominica (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "228",
@@ -1053,7 +1013,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Grand Turk (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "229",
@@ -1061,7 +1022,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Grenada (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2210",
@@ -1069,7 +1031,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Guadeloupe (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2211",
@@ -1077,7 +1040,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Guyana (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2212",
@@ -1085,7 +1049,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Kralendijk (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2213",
@@ -1093,7 +1058,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/La Paz (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2214",
@@ -1101,7 +1067,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Lower Princes (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2215",
@@ -1109,7 +1076,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Manaus (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2216",
@@ -1117,7 +1085,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Marigot (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2217",
@@ -1125,7 +1094,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Martinique (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2218",
@@ -1133,7 +1103,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Montserrat (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2219",
@@ -1141,7 +1112,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Port of Spain (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2220",
@@ -1149,7 +1121,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Porto Velho (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2221",
@@ -1157,7 +1130,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Puerto Rico (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2222",
@@ -1165,7 +1139,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Santo Domingo (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2223",
@@ -1173,7 +1148,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/St Barthelemy (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2224",
@@ -1181,7 +1157,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/St Kitts (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2225",
@@ -1189,7 +1166,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/St Lucia (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2226",
@@ -1197,7 +1175,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/St Thomas (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2227",
@@ -1205,7 +1184,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/St Vincent (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2228",
@@ -1213,7 +1193,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST America/Tortola (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "2229",
@@ -1221,7 +1202,8 @@
         "tag": "SWST",
         "offset": -4,
         "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
-        "name": "SA Western Standard Time"
+        "name": "SA Western Standard Time",
+        "term": "SWST Etc/GMT+4 (UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
     },
     {
         "id": "230",
@@ -1229,7 +1211,8 @@
         "tag": "PSST",
         "offset": -4,
         "text": "(UTC-04:00) Santiago",
-        "name": "Pacific SA Standard Time"
+        "name": "Pacific SA Standard Time",
+        "term": "PSST America/Santiago (UTC-04:00) Santiago"
     },
     {
         "id": "231",
@@ -1237,7 +1220,8 @@
         "tag": "PSST",
         "offset": -4,
         "text": "(UTC-04:00) Santiago",
-        "name": "Pacific SA Standard Time"
+        "name": "Pacific SA Standard Time",
+        "term": "PSST Antarctica/Palmer (UTC-04:00) Santiago"
     },
     {
         "id": "240",
@@ -1245,7 +1229,8 @@
         "tag": "NDT",
         "offset": -2.5,
         "text": "(UTC-03:30) Newfoundland",
-        "name": "Newfoundland Standard Time"
+        "name": "Newfoundland Standard Time",
+        "term": "NDT America/St Johns (UTC-03:30) Newfoundland"
     },
     {
         "id": "250",
@@ -1253,7 +1238,8 @@
         "tag": "ESAST",
         "offset": -3,
         "text": "(UTC-03:00) Brasilia",
-        "name": "E. South America Standard Time"
+        "name": "E. South America Standard Time",
+        "term": "ESAST America/Sao Paulo (UTC-03:00) Brasilia"
     },
     {
         "id": "260",
@@ -1261,7 +1247,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/La Rioja (UTC-03:00) Buenos Aires"
     },
     {
         "id": "261",
@@ -1269,7 +1256,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/Rio Gallegos (UTC-03:00) Buenos Aires"
     },
     {
         "id": "262",
@@ -1277,7 +1265,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/Salta (UTC-03:00) Buenos Aires"
     },
     {
         "id": "263",
@@ -1285,7 +1274,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/San Juan (UTC-03:00) Buenos Aires"
     },
     {
         "id": "264",
@@ -1293,7 +1283,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/San Luis (UTC-03:00) Buenos Aires"
     },
     {
         "id": "265",
@@ -1301,7 +1292,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/Tucuman (UTC-03:00) Buenos Aires"
     },
     {
         "id": "266",
@@ -1309,7 +1301,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Argentina/Ushuaia (UTC-03:00) Buenos Aires"
     },
     {
         "id": "267",
@@ -1317,7 +1310,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Buenos Aires (UTC-03:00) Buenos Aires"
     },
     {
         "id": "268",
@@ -1325,7 +1319,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Catamarca (UTC-03:00) Buenos Aires"
     },
     {
         "id": "269",
@@ -1333,7 +1328,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Cordoba (UTC-03:00) Buenos Aires"
     },
     {
         "id": "2610",
@@ -1341,7 +1337,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Jujuy (UTC-03:00) Buenos Aires"
     },
     {
         "id": "2611",
@@ -1349,7 +1346,8 @@
         "tag": "AST",
         "offset": -3,
         "text": "(UTC-03:00) Buenos Aires",
-        "name": "Argentina Standard Time"
+        "name": "Argentina Standard Time",
+        "term": "AST America/Mendoza (UTC-03:00) Buenos Aires"
     },
     {
         "id": "270",
@@ -1357,7 +1355,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Araguaina (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "271",
@@ -1365,7 +1364,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Belem (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "272",
@@ -1373,7 +1373,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Cayenne (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "273",
@@ -1381,7 +1382,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Fortaleza (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "274",
@@ -1389,7 +1391,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Maceio (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "275",
@@ -1397,7 +1400,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Paramaribo (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "276",
@@ -1405,7 +1409,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Recife (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "277",
@@ -1413,7 +1418,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST America/Santarem (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "278",
@@ -1421,7 +1427,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST Antarctica/Rothera (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "279",
@@ -1429,7 +1436,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST Atlantic/Stanley (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "2710",
@@ -1437,7 +1445,8 @@
         "tag": "SEST",
         "offset": -3,
         "text": "(UTC-03:00) Cayenne, Fortaleza",
-        "name": "SA Eastern Standard Time"
+        "name": "SA Eastern Standard Time",
+        "term": "SEST Etc/GMT+3 (UTC-03:00) Cayenne, Fortaleza"
     },
     {
         "id": "280",
@@ -1445,7 +1454,8 @@
         "tag": "GDT",
         "offset": -3,
         "text": "(UTC-03:00) Greenland",
-        "name": "Greenland Standard Time"
+        "name": "Greenland Standard Time",
+        "term": "GDT America/Godthab (UTC-03:00) Greenland"
     },
     {
         "id": "290",
@@ -1453,7 +1463,8 @@
         "tag": "MST",
         "offset": -3,
         "text": "(UTC-03:00) Montevideo",
-        "name": "Montevideo Standard Time"
+        "name": "Montevideo Standard Time",
+        "term": "MST America/Montevideo (UTC-03:00) Montevideo"
     },
     {
         "id": "300",
@@ -1461,7 +1472,8 @@
         "tag": "BST",
         "offset": -3,
         "text": "(UTC-03:00) Salvador",
-        "name": "Bahia Standard Time"
+        "name": "Bahia Standard Time",
+        "term": "BST America/Bahia (UTC-03:00) Salvador"
     },
     {
         "id": "310",
@@ -1469,7 +1481,8 @@
         "tag": "U",
         "offset": -2,
         "text": "(UTC-02:00) Coordinated Universal Time-02",
-        "name": "UTC-02"
+        "name": "UTC-02",
+        "term": "U America/Noronha (UTC-02:00) Coordinated Universal Time-02"
     },
     {
         "id": "311",
@@ -1477,7 +1490,8 @@
         "tag": "U",
         "offset": -2,
         "text": "(UTC-02:00) Coordinated Universal Time-02",
-        "name": "UTC-02"
+        "name": "UTC-02",
+        "term": "U Atlantic/South Georgia (UTC-02:00) Coordinated Universal Time-02"
     },
     {
         "id": "312",
@@ -1485,7 +1499,8 @@
         "tag": "U",
         "offset": -2,
         "text": "(UTC-02:00) Coordinated Universal Time-02",
-        "name": "UTC-02"
+        "name": "UTC-02",
+        "term": "U Etc/GMT+2 (UTC-02:00) Coordinated Universal Time-02"
     },
     {
         "id": "330",
@@ -1493,7 +1508,8 @@
         "tag": "ADT",
         "offset": 0,
         "text": "(UTC-01:00) Azores",
-        "name": "Azores Standard Time"
+        "name": "Azores Standard Time",
+        "term": "ADT America/Scoresbysund (UTC-01:00) Azores"
     },
     {
         "id": "331",
@@ -1501,7 +1517,8 @@
         "tag": "ADT",
         "offset": 0,
         "text": "(UTC-01:00) Azores",
-        "name": "Azores Standard Time"
+        "name": "Azores Standard Time",
+        "term": "ADT Atlantic/Azores (UTC-01:00) Azores"
     },
     {
         "id": "340",
@@ -1509,7 +1526,8 @@
         "tag": "CVST",
         "offset": -1,
         "text": "(UTC-01:00) Cape Verde Is.",
-        "name": "Cape Verde Standard Time"
+        "name": "Cape Verde Standard Time",
+        "term": "CVST Atlantic/Cape Verde (UTC-01:00) Cape Verde Is."
     },
     {
         "id": "341",
@@ -1517,7 +1535,8 @@
         "tag": "CVST",
         "offset": -1,
         "text": "(UTC-01:00) Cape Verde Is.",
-        "name": "Cape Verde Standard Time"
+        "name": "Cape Verde Standard Time",
+        "term": "CVST Etc/GMT+1 (UTC-01:00) Cape Verde Is."
     },
     {
         "id": "350",
@@ -1525,7 +1544,8 @@
         "tag": "MDT",
         "offset": 1,
         "text": "(UTC) Casablanca",
-        "name": "Morocco Standard Time"
+        "name": "Morocco Standard Time",
+        "term": "MDT Africa/Casablanca (UTC) Casablanca"
     },
     {
         "id": "351",
@@ -1533,7 +1553,8 @@
         "tag": "MDT",
         "offset": 1,
         "text": "(UTC) Casablanca",
-        "name": "Morocco Standard Time"
+        "name": "Morocco Standard Time",
+        "term": "MDT Africa/El Aaiun (UTC) Casablanca"
     },
     {
         "id": "360",
@@ -1541,7 +1562,8 @@
         "tag": "UTC",
         "offset": 0,
         "text": "(UTC) Coordinated Universal Time",
-        "name": "UTC"
+        "name": "UTC",
+        "term": "UTC America/Danmarkshavn (UTC) Coordinated Universal Time"
     },
     {
         "id": "361",
@@ -1549,7 +1571,8 @@
         "tag": "UTC",
         "offset": 0,
         "text": "(UTC) Coordinated Universal Time",
-        "name": "UTC"
+        "name": "UTC",
+        "term": "UTC Etc/GMT (UTC) Coordinated Universal Time"
     },
     {
         "id": "370",
@@ -1557,7 +1580,8 @@
         "tag": "GMT",
         "offset": 0,
         "text": "(UTC) Edinburgh, London",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GMT Europe/Isle of Man (UTC) Edinburgh, London BST"
     },
     {
         "id": "371",
@@ -1565,7 +1589,8 @@
         "tag": "GMT",
         "offset": 0,
         "text": "(UTC) Edinburgh, London",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GMT Europe/Guernsey (UTC) Edinburgh, London BST"
     },
     {
         "id": "372",
@@ -1573,7 +1598,8 @@
         "tag": "GMT",
         "offset": 0,
         "text": "(UTC) Edinburgh, London",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GMT Europe/Jersey (UTC) Edinburgh, London BST"
     },
     {
         "id": "373",
@@ -1581,39 +1607,8 @@
         "tag": "GMT",
         "offset": 0,
         "text": "(UTC) Edinburgh, London",
-        "name": "GMT Standard Time"
-    },
-    {
-        "id": "380",
-        "code": "Europe/Isle_of_Man",
-        "tag": "BST",
-        "offset": 1,
-        "text": "(UTC+01:00) Edinburgh, London",
-        "name": "British Summer Time"
-    },
-    {
-        "id": "381",
-        "code": "Europe/Guernsey",
-        "tag": "BST",
-        "offset": 1,
-        "text": "(UTC+01:00) Edinburgh, London",
-        "name": "British Summer Time"
-    },
-    {
-        "id": "382",
-        "code": "Europe/Jersey",
-        "tag": "BST",
-        "offset": 1,
-        "text": "(UTC+01:00) Edinburgh, London",
-        "name": "British Summer Time"
-    },
-    {
-        "id": "383",
-        "code": "Europe/London",
-        "tag": "BST",
-        "offset": 1,
-        "text": "(UTC+01:00) Edinburgh, London",
-        "name": "British Summer Time"
+        "name": "GMT Standard Time",
+        "term": "GMT Europe/London (UTC) Edinburgh, London BST"
     },
     {
         "id": "390",
@@ -1621,7 +1616,8 @@
         "tag": "GDT",
         "offset": 1,
         "text": "(UTC) Dublin, Lisbon",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GDT Atlantic/Canary (UTC) Dublin, Lisbon"
     },
     {
         "id": "391",
@@ -1629,7 +1625,8 @@
         "tag": "GDT",
         "offset": 1,
         "text": "(UTC) Dublin, Lisbon",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GDT Atlantic/Faeroe (UTC) Dublin, Lisbon"
     },
     {
         "id": "392",
@@ -1637,7 +1634,8 @@
         "tag": "GDT",
         "offset": 1,
         "text": "(UTC) Dublin, Lisbon",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GDT Atlantic/Madeira (UTC) Dublin, Lisbon"
     },
     {
         "id": "393",
@@ -1645,7 +1643,8 @@
         "tag": "GDT",
         "offset": 1,
         "text": "(UTC) Dublin, Lisbon",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GDT Europe/Dublin (UTC) Dublin, Lisbon"
     },
     {
         "id": "394",
@@ -1653,7 +1652,8 @@
         "tag": "GDT",
         "offset": 1,
         "text": "(UTC) Dublin, Lisbon",
-        "name": "GMT Standard Time"
+        "name": "GMT Standard Time",
+        "term": "GDT Europe/Lisbon (UTC) Dublin, Lisbon"
     },
     {
         "id": "400",
@@ -1661,7 +1661,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Abidjan (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "401",
@@ -1669,7 +1670,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Accra (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "402",
@@ -1677,7 +1679,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Bamako (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "403",
@@ -1685,7 +1688,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Banjul (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "404",
@@ -1693,7 +1697,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Bissau (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "405",
@@ -1701,7 +1706,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Conakry (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "406",
@@ -1709,7 +1715,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Dakar (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "407",
@@ -1717,7 +1724,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Freetown (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "408",
@@ -1725,7 +1733,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Lome (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "409",
@@ -1733,7 +1742,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Monrovia (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "4010",
@@ -1741,7 +1751,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Nouakchott (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "4011",
@@ -1749,7 +1760,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Ouagadougou (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "4012",
@@ -1757,7 +1769,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Africa/Sao Tome (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "4013",
@@ -1765,7 +1778,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Atlantic/Reykjavik (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "4014",
@@ -1773,7 +1787,8 @@
         "tag": "GST",
         "offset": 0,
         "text": "(UTC) Monrovia, Reykjavik",
-        "name": "Greenwich Standard Time"
+        "name": "Greenwich Standard Time",
+        "term": "GST Atlantic/St Helena (UTC) Monrovia, Reykjavik"
     },
     {
         "id": "410",
@@ -1781,7 +1796,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Arctic/Longyearbyen (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "411",
@@ -1789,7 +1805,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Amsterdam (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "412",
@@ -1797,7 +1814,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Andorra (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "413",
@@ -1805,7 +1823,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Berlin (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "414",
@@ -1813,7 +1832,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Busingen (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "415",
@@ -1821,7 +1841,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Gibraltar (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "416",
@@ -1829,7 +1850,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Luxembourg (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "417",
@@ -1837,7 +1859,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Malta (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "418",
@@ -1845,7 +1868,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Monaco (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "419",
@@ -1853,7 +1877,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Oslo (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4110",
@@ -1861,7 +1886,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Rome (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4111",
@@ -1869,7 +1895,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/San Marino (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4112",
@@ -1877,7 +1904,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Stockholm (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4113",
@@ -1885,7 +1913,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Vaduz (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4114",
@@ -1893,7 +1922,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Vatican (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4115",
@@ -1901,7 +1931,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Vienna (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "4116",
@@ -1909,7 +1940,8 @@
         "tag": "WEDT",
         "offset": 2,
         "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
-        "name": "W. Europe Standard Time"
+        "name": "W. Europe Standard Time",
+        "term": "WEDT Europe/Zurich (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
     },
     {
         "id": "420",
@@ -1917,7 +1949,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Belgrade (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "421",
@@ -1925,7 +1958,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Bratislava (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "422",
@@ -1933,7 +1967,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Budapest (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "423",
@@ -1941,7 +1976,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Ljubljana (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "424",
@@ -1949,7 +1985,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Podgorica (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "425",
@@ -1957,7 +1994,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Prague (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "426",
@@ -1965,7 +2003,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-        "name": "Central Europe Standard Time"
+        "name": "Central Europe Standard Time",
+        "term": "CEDT Europe/Tirane (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
     },
     {
         "id": "430",
@@ -1973,7 +2012,8 @@
         "tag": "RDT",
         "offset": 2,
         "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
-        "name": "Romance Standard Time"
+        "name": "Romance Standard Time",
+        "term": "RDT Africa/Ceuta (UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
     },
     {
         "id": "431",
@@ -1981,7 +2021,8 @@
         "tag": "RDT",
         "offset": 2,
         "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
-        "name": "Romance Standard Time"
+        "name": "Romance Standard Time",
+        "term": "RDT Europe/Brussels (UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
     },
     {
         "id": "432",
@@ -1989,7 +2030,8 @@
         "tag": "RDT",
         "offset": 2,
         "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
-        "name": "Romance Standard Time"
+        "name": "Romance Standard Time",
+        "term": "RDT Europe/Copenhagen (UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
     },
     {
         "id": "433",
@@ -1997,7 +2039,8 @@
         "tag": "RDT",
         "offset": 2,
         "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
-        "name": "Romance Standard Time"
+        "name": "Romance Standard Time",
+        "term": "RDT Europe/Madrid (UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
     },
     {
         "id": "434",
@@ -2005,7 +2048,8 @@
         "tag": "RDT",
         "offset": 2,
         "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
-        "name": "Romance Standard Time"
+        "name": "Romance Standard Time",
+        "term": "RDT Europe/Paris (UTC+01:00) Brussels, Copenhagen, Madrid, Paris"
     },
     {
         "id": "440",
@@ -2013,7 +2057,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
-        "name": "Central European Standard Time"
+        "name": "Central European Standard Time",
+        "term": "CEDT Europe/Sarajevo (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
     },
     {
         "id": "441",
@@ -2021,7 +2066,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
-        "name": "Central European Standard Time"
+        "name": "Central European Standard Time",
+        "term": "CEDT Europe/Skopje (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
     },
     {
         "id": "442",
@@ -2029,7 +2075,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
-        "name": "Central European Standard Time"
+        "name": "Central European Standard Time",
+        "term": "CEDT Europe/Warsaw (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
     },
     {
         "id": "443",
@@ -2037,7 +2084,8 @@
         "tag": "CEDT",
         "offset": 2,
         "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
-        "name": "Central European Standard Time"
+        "name": "Central European Standard Time",
+        "term": "CEDT Europe/Zagreb (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
     },
     {
         "id": "450",
@@ -2045,7 +2093,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Algiers (UTC+01:00) West Central Africa"
     },
     {
         "id": "451",
@@ -2053,7 +2102,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Bangui (UTC+01:00) West Central Africa"
     },
     {
         "id": "452",
@@ -2061,7 +2111,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Brazzaville (UTC+01:00) West Central Africa"
     },
     {
         "id": "453",
@@ -2069,7 +2120,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Douala (UTC+01:00) West Central Africa"
     },
     {
         "id": "454",
@@ -2077,7 +2129,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Kinshasa (UTC+01:00) West Central Africa"
     },
     {
         "id": "455",
@@ -2085,7 +2138,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Lagos (UTC+01:00) West Central Africa"
     },
     {
         "id": "456",
@@ -2093,7 +2147,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Libreville (UTC+01:00) West Central Africa"
     },
     {
         "id": "457",
@@ -2101,7 +2156,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Luanda (UTC+01:00) West Central Africa"
     },
     {
         "id": "458",
@@ -2109,7 +2165,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Malabo (UTC+01:00) West Central Africa"
     },
     {
         "id": "459",
@@ -2117,7 +2174,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Ndjamena (UTC+01:00) West Central Africa"
     },
     {
         "id": "4510",
@@ -2125,7 +2183,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Niamey (UTC+01:00) West Central Africa"
     },
     {
         "id": "4511",
@@ -2133,7 +2192,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Porto-Novo (UTC+01:00) West Central Africa"
     },
     {
         "id": "4512",
@@ -2141,7 +2201,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Africa/Tunis (UTC+01:00) West Central Africa"
     },
     {
         "id": "4513",
@@ -2149,7 +2210,8 @@
         "tag": "WCAST",
         "offset": 1,
         "text": "(UTC+01:00) West Central Africa",
-        "name": "W. Central Africa Standard Time"
+        "name": "W. Central Africa Standard Time",
+        "term": "WCAST Etc/GMT-1 (UTC+01:00) West Central Africa"
     },
     {
         "id": "460",
@@ -2157,7 +2219,8 @@
         "tag": "NST",
         "offset": 1,
         "text": "(UTC+01:00) Windhoek",
-        "name": "Namibia Standard Time"
+        "name": "Namibia Standard Time",
+        "term": "NST Africa/Windhoek (UTC+01:00) Windhoek"
     },
     {
         "id": "470",
@@ -2165,7 +2228,8 @@
         "tag": "GDT",
         "offset": 3,
         "text": "(UTC+02:00) Athens, Bucharest",
-        "name": "GTB Standard Time"
+        "name": "GTB Standard Time",
+        "term": "GDT Asia/Nicosia (UTC+02:00) Athens, Bucharest EEDT"
     },
     {
         "id": "471",
@@ -2173,7 +2237,8 @@
         "tag": "GDT",
         "offset": 3,
         "text": "(UTC+02:00) Athens, Bucharest",
-        "name": "GTB Standard Time"
+        "name": "GTB Standard Time",
+        "term": "GDT Europe/Athens (UTC+02:00) Athens, Bucharest EEDT"
     },
     {
         "id": "472",
@@ -2181,7 +2246,8 @@
         "tag": "GDT",
         "offset": 3,
         "text": "(UTC+02:00) Athens, Bucharest",
-        "name": "GTB Standard Time"
+        "name": "GTB Standard Time",
+        "term": "GDT Europe/Bucharest (UTC+02:00) Athens, Bucharest EEDT"
     },
     {
         "id": "473",
@@ -2189,7 +2255,8 @@
         "tag": "GDT",
         "offset": 3,
         "text": "(UTC+02:00) Athens, Bucharest",
-        "name": "GTB Standard Time"
+        "name": "GTB Standard Time",
+        "term": "GDT Europe/Chisinau (UTC+02:00) Athens, Bucharest EEDT"
     },
     {
         "id": "480",
@@ -2197,7 +2264,8 @@
         "tag": "MEDT",
         "offset": 3,
         "text": "(UTC+02:00) Beirut",
-        "name": "Middle East Standard Time"
+        "name": "Middle East Standard Time",
+        "term": "MEDT Asia/Beirut (UTC+02:00) Beirut"
     },
     {
         "id": "490",
@@ -2205,7 +2273,8 @@
         "tag": "EST",
         "offset": 2,
         "text": "(UTC+02:00) Cairo",
-        "name": "Egypt Standard Time"
+        "name": "Egypt Standard Time",
+        "term": "EST Africa/Cairo (UTC+02:00) Cairo"
     },
     {
         "id": "500",
@@ -2213,39 +2282,8 @@
         "tag": "SDT",
         "offset": 3,
         "text": "(UTC+02:00) Damascus",
-        "name": "Syria Standard Time"
-    },
-    {
-        "id": "510",
-        "code": "Asia/Nicosia",
-        "tag": "EEDT",
-        "offset": 3,
-        "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
-    },
-    {
-        "id": "511",
-        "code": "Europe/Athens",
-        "tag": "EEDT",
-        "offset": 3,
-        "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
-    },
-    {
-        "id": "512",
-        "code": "Europe/Bucharest",
-        "tag": "EEDT",
-        "offset": 3,
-        "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
-    },
-    {
-        "id": "513",
-        "code": "Europe/Chisinau",
-        "tag": "EEDT",
-        "offset": 3,
-        "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "Syria Standard Time",
+        "term": "SDT Asia/Damascus (UTC+02:00) Damascus"
     },
     {
         "id": "514",
@@ -2253,7 +2291,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Helsinki (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "515",
@@ -2261,7 +2300,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Kiev (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "516",
@@ -2269,7 +2309,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Mariehamn (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "517",
@@ -2277,7 +2318,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Nicosia (UTC+02:00) E. Europe"
     },
     {
         "id": "518",
@@ -2285,7 +2327,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Riga (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "519",
@@ -2293,7 +2336,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Sofia (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "5110",
@@ -2301,7 +2345,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Tallinn (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "5111",
@@ -2309,7 +2354,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Uzhgorod (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "5112",
@@ -2317,7 +2363,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Vilnius (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "5113",
@@ -2325,7 +2372,8 @@
         "tag": "EEDT",
         "offset": 3,
         "text": "(UTC+02:00) E. Europe",
-        "name": "E. Europe Standard Time"
+        "name": "E. Europe Standard Time",
+        "term": "EEDT Europe/Zaporozhye (UTC+02:00) E. Europe FDT"
     },
     {
         "id": "520",
@@ -2333,7 +2381,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Blantyre (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "521",
@@ -2341,7 +2390,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Bujumbura (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "522",
@@ -2349,7 +2399,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Gaborone (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "523",
@@ -2357,7 +2408,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Harare (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "524",
@@ -2365,7 +2417,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Johannesburg (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "525",
@@ -2373,7 +2426,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Kigali (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "526",
@@ -2381,7 +2435,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Lubumbashi (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "527",
@@ -2389,7 +2444,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Lusaka (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "528",
@@ -2397,7 +2453,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Maputo (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "529",
@@ -2405,7 +2462,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Maseru (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "5210",
@@ -2413,7 +2471,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Africa/Mbabane (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "5211",
@@ -2421,79 +2480,8 @@
         "tag": "SAST",
         "offset": 2,
         "text": "(UTC+02:00) Harare, Pretoria",
-        "name": "South Africa Standard Time"
-    },
-    {
-        "id": "530",
-        "code": "Europe/Helsinki",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "531",
-        "code": "Europe/Kiev",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "532",
-        "code": "Europe/Mariehamn",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "533",
-        "code": "Europe/Riga",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "534",
-        "code": "Europe/Sofia",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "535",
-        "code": "Europe/Tallinn",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "536",
-        "code": "Europe/Uzhgorod",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "537",
-        "code": "Europe/Vilnius",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
-    },
-    {
-        "id": "538",
-        "code": "Europe/Zaporozhye",
-        "tag": "FDT",
-        "offset": 3,
-        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
-        "name": "FLE Standard Time"
+        "name": "South Africa Standard Time",
+        "term": "SAST Etc/GMT-2 (UTC+02:00) Harare, Pretoria"
     },
     {
         "id": "540",
@@ -2501,7 +2489,8 @@
         "tag": "TDT",
         "offset": 3,
         "text": "(UTC+03:00) Istanbul",
-        "name": "Turkey Standard Time"
+        "name": "Turkey Standard Time",
+        "term": "TDT Europe/Istanbul (UTC+03:00) Istanbul"
     },
     {
         "id": "550",
@@ -2509,7 +2498,8 @@
         "tag": "JDT",
         "offset": 3,
         "text": "(UTC+02:00) Jerusalem",
-        "name": "Israel Standard Time"
+        "name": "Israel Standard Time",
+        "term": "JDT Asia/Jerusalem (UTC+02:00) Jerusalem"
     },
     {
         "id": "560",
@@ -2517,7 +2507,8 @@
         "tag": "LST",
         "offset": 2,
         "text": "(UTC+02:00) Tripoli",
-        "name": "Libya Standard Time"
+        "name": "Libya Standard Time",
+        "term": "LST Africa/Tripoli (UTC+02:00) Tripoli"
     },
     {
         "id": "570",
@@ -2525,7 +2516,8 @@
         "tag": "JST",
         "offset": 3,
         "text": "(UTC+03:00) Amman",
-        "name": "Jordan Standard Time"
+        "name": "Jordan Standard Time",
+        "term": "JST Asia/Amman (UTC+03:00) Amman"
     },
     {
         "id": "580",
@@ -2533,7 +2525,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Baghdad",
-        "name": "Arabic Standard Time"
+        "name": "Arabic Standard Time",
+        "term": "AST Asia/Baghdad (UTC+03:00) Baghdad"
     },
     {
         "id": "590",
@@ -2541,7 +2534,8 @@
         "tag": "KST",
         "offset": 3,
         "text": "(UTC+02:00) Kaliningrad",
-        "name": "Kaliningrad Standard Time"
+        "name": "Kaliningrad Standard Time",
+        "term": "KST Europe/Kaliningrad (UTC+02:00) Kaliningrad"
     },
     {
         "id": "600",
@@ -2549,7 +2543,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Kuwait, Riyadh",
-        "name": "Arab Standard Time"
+        "name": "Arab Standard Time",
+        "term": "AST Asia/Aden (UTC+03:00) Kuwait, Riyadh"
     },
     {
         "id": "601",
@@ -2557,7 +2552,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Kuwait, Riyadh",
-        "name": "Arab Standard Time"
+        "name": "Arab Standard Time",
+        "term": "AST Asia/Bahrain (UTC+03:00) Kuwait, Riyadh"
     },
     {
         "id": "602",
@@ -2565,7 +2561,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Kuwait, Riyadh",
-        "name": "Arab Standard Time"
+        "name": "Arab Standard Time",
+        "term": "AST Asia/Kuwait (UTC+03:00) Kuwait, Riyadh"
     },
     {
         "id": "603",
@@ -2573,7 +2570,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Kuwait, Riyadh",
-        "name": "Arab Standard Time"
+        "name": "Arab Standard Time",
+        "term": "AST Asia/Qatar (UTC+03:00) Kuwait, Riyadh"
     },
     {
         "id": "604",
@@ -2581,7 +2579,8 @@
         "tag": "AST",
         "offset": 3,
         "text": "(UTC+03:00) Kuwait, Riyadh",
-        "name": "Arab Standard Time"
+        "name": "Arab Standard Time",
+        "term": "AST Asia/Riyadh (UTC+03:00) Kuwait, Riyadh"
     },
     {
         "id": "610",
@@ -2589,7 +2588,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Addis Ababa (UTC+03:00) Nairobi"
     },
     {
         "id": "611",
@@ -2597,7 +2597,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Asmera (UTC+03:00) Nairobi"
     },
     {
         "id": "612",
@@ -2605,7 +2606,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Dar es Salaam (UTC+03:00) Nairobi"
     },
     {
         "id": "613",
@@ -2613,7 +2615,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Djibouti (UTC+03:00) Nairobi"
     },
     {
         "id": "614",
@@ -2621,7 +2624,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Juba (UTC+03:00) Nairobi"
     },
     {
         "id": "615",
@@ -2629,7 +2633,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Kampala (UTC+03:00) Nairobi"
     },
     {
         "id": "616",
@@ -2637,7 +2642,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Khartoum (UTC+03:00) Nairobi"
     },
     {
         "id": "617",
@@ -2645,7 +2651,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Mogadishu (UTC+03:00) Nairobi"
     },
     {
         "id": "618",
@@ -2653,7 +2660,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Africa/Nairobi (UTC+03:00) Nairobi"
     },
     {
         "id": "619",
@@ -2661,7 +2669,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Antarctica/Syowa (UTC+03:00) Nairobi"
     },
     {
         "id": "6110",
@@ -2669,7 +2678,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Etc/GMT-3 (UTC+03:00) Nairobi"
     },
     {
         "id": "6111",
@@ -2677,7 +2687,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Indian/Antananarivo (UTC+03:00) Nairobi"
     },
     {
         "id": "6112",
@@ -2685,7 +2696,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Indian/Comoro (UTC+03:00) Nairobi"
     },
     {
         "id": "6113",
@@ -2693,7 +2705,8 @@
         "tag": "EAST",
         "offset": 3,
         "text": "(UTC+03:00) Nairobi",
-        "name": "E. Africa Standard Time"
+        "name": "E. Africa Standard Time",
+        "term": "EAST Indian/Mayotte (UTC+03:00) Nairobi"
     },
     {
         "id": "620",
@@ -2701,7 +2714,8 @@
         "tag": "MSK",
         "offset": 3,
         "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
-        "name": "Moscow Standard Time"
+        "name": "Moscow Standard Time",
+        "term": "MSK Europe/Kirov (UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk"
     },
     {
         "id": "621",
@@ -2709,7 +2723,8 @@
         "tag": "MSK",
         "offset": 3,
         "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
-        "name": "Moscow Standard Time"
+        "name": "Moscow Standard Time",
+        "term": "MSK Europe/Moscow (UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk"
     },
     {
         "id": "622",
@@ -2717,7 +2732,8 @@
         "tag": "MSK",
         "offset": 3,
         "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
-        "name": "Moscow Standard Time"
+        "name": "Moscow Standard Time",
+        "term": "MSK Europe/Simferopol (UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk"
     },
     {
         "id": "623",
@@ -2725,7 +2741,8 @@
         "tag": "MSK",
         "offset": 3,
         "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
-        "name": "Moscow Standard Time"
+        "name": "Moscow Standard Time",
+        "term": "MSK Europe/Volgograd (UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk"
     },
     {
         "id": "624",
@@ -2733,7 +2750,8 @@
         "tag": "MSK",
         "offset": 3,
         "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
-        "name": "Moscow Standard Time"
+        "name": "Moscow Standard Time",
+        "term": "MSK Europe/Minsk (UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk"
     },
     {
         "id": "630",
@@ -2741,7 +2759,8 @@
         "tag": "SAMT",
         "offset": 4,
         "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
-        "name": "Samara Time"
+        "name": "Samara Time",
+        "term": "SAMT Europe/Astrakhan (UTC+04:00) Samara, Ulyanovsk, Saratov"
     },
     {
         "id": "631",
@@ -2749,7 +2768,8 @@
         "tag": "SAMT",
         "offset": 4,
         "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
-        "name": "Samara Time"
+        "name": "Samara Time",
+        "term": "SAMT Europe/Samara (UTC+04:00) Samara, Ulyanovsk, Saratov"
     },
     {
         "id": "632",
@@ -2757,7 +2777,8 @@
         "tag": "SAMT",
         "offset": 4,
         "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
-        "name": "Samara Time"
+        "name": "Samara Time",
+        "term": "SAMT Europe/Ulyanovsk (UTC+04:00) Samara, Ulyanovsk, Saratov"
     },
     {
         "id": "640",
@@ -2765,7 +2786,8 @@
         "tag": "IDT",
         "offset": 4.5,
         "text": "(UTC+03:30) Tehran",
-        "name": "Iran Standard Time"
+        "name": "Iran Standard Time",
+        "term": "IDT Asia/Tehran (UTC+03:30) Tehran"
     },
     {
         "id": "650",
@@ -2773,7 +2795,8 @@
         "tag": "AST",
         "offset": 4,
         "text": "(UTC+04:00) Abu Dhabi, Muscat",
-        "name": "Arabian Standard Time"
+        "name": "Arabian Standard Time",
+        "term": "AST Asia/Dubai (UTC+04:00) Abu Dhabi, Muscat"
     },
     {
         "id": "651",
@@ -2781,7 +2804,8 @@
         "tag": "AST",
         "offset": 4,
         "text": "(UTC+04:00) Abu Dhabi, Muscat",
-        "name": "Arabian Standard Time"
+        "name": "Arabian Standard Time",
+        "term": "AST Asia/Muscat (UTC+04:00) Abu Dhabi, Muscat"
     },
     {
         "id": "652",
@@ -2789,7 +2813,8 @@
         "tag": "AST",
         "offset": 4,
         "text": "(UTC+04:00) Abu Dhabi, Muscat",
-        "name": "Arabian Standard Time"
+        "name": "Arabian Standard Time",
+        "term": "AST Etc/GMT-4 (UTC+04:00) Abu Dhabi, Muscat"
     },
     {
         "id": "660",
@@ -2797,7 +2822,8 @@
         "tag": "ADT",
         "offset": 5,
         "text": "(UTC+04:00) Baku",
-        "name": "Azerbaijan Standard Time"
+        "name": "Azerbaijan Standard Time",
+        "term": "ADT Asia/Baku (UTC+04:00) Baku"
     },
     {
         "id": "670",
@@ -2805,7 +2831,8 @@
         "tag": "MST",
         "offset": 4,
         "text": "(UTC+04:00) Port Louis",
-        "name": "Mauritius Standard Time"
+        "name": "Mauritius Standard Time",
+        "term": "MST Indian/Mahe (UTC+04:00) Port Louis"
     },
     {
         "id": "671",
@@ -2813,7 +2840,8 @@
         "tag": "MST",
         "offset": 4,
         "text": "(UTC+04:00) Port Louis",
-        "name": "Mauritius Standard Time"
+        "name": "Mauritius Standard Time",
+        "term": "MST Indian/Mauritius (UTC+04:00) Port Louis"
     },
     {
         "id": "672",
@@ -2821,7 +2849,8 @@
         "tag": "MST",
         "offset": 4,
         "text": "(UTC+04:00) Port Louis",
-        "name": "Mauritius Standard Time"
+        "name": "Mauritius Standard Time",
+        "term": "MST Indian/Reunion (UTC+04:00) Port Louis"
     },
     {
         "id": "680",
@@ -2829,7 +2858,8 @@
         "tag": "GET",
         "offset": 4,
         "text": "(UTC+04:00) Tbilisi",
-        "name": "Georgian Standard Time"
+        "name": "Georgian Standard Time",
+        "term": "GET Asia/Tbilisi (UTC+04:00) Tbilisi"
     },
     {
         "id": "690",
@@ -2837,7 +2867,8 @@
         "tag": "CST",
         "offset": 4,
         "text": "(UTC+04:00) Yerevan",
-        "name": "Caucasus Standard Time"
+        "name": "Caucasus Standard Time",
+        "term": "CST Asia/Yerevan (UTC+04:00) Yerevan"
     },
     {
         "id": "700",
@@ -2845,7 +2876,8 @@
         "tag": "AST",
         "offset": 4.5,
         "text": "(UTC+04:30) Kabul",
-        "name": "Afghanistan Standard Time"
+        "name": "Afghanistan Standard Time",
+        "term": "AST Asia/Kabul (UTC+04:30) Kabul"
     },
     {
         "id": "710",
@@ -2853,7 +2885,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Antarctica/Mawson (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "711",
@@ -2861,7 +2894,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Aqtau (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "712",
@@ -2869,7 +2903,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Aqtobe (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "713",
@@ -2877,7 +2912,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Ashgabat (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "714",
@@ -2885,7 +2921,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Dushanbe (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "715",
@@ -2893,7 +2930,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Oral (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "716",
@@ -2901,7 +2939,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Samarkand (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "717",
@@ -2909,7 +2948,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Asia/Tashkent (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "718",
@@ -2917,7 +2957,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Etc/GMT-5 (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "719",
@@ -2925,7 +2966,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Indian/Kerguelen (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "7110",
@@ -2933,7 +2975,8 @@
         "tag": "WAST",
         "offset": 5,
         "text": "(UTC+05:00) Ashgabat, Tashkent",
-        "name": "West Asia Standard Time"
+        "name": "West Asia Standard Time",
+        "term": "WAST Indian/Maldives (UTC+05:00) Ashgabat, Tashkent"
     },
     {
         "id": "720",
@@ -2941,7 +2984,8 @@
         "tag": "YEKT",
         "offset": 5,
         "text": "(UTC+05:00) Yekaterinburg",
-        "name": "Yekaterinburg Time"
+        "name": "Yekaterinburg Time",
+        "term": "YEKT Asia/Yekaterinburg (UTC+05:00) Yekaterinburg"
     },
     {
         "id": "730",
@@ -2949,7 +2993,8 @@
         "tag": "PKT",
         "offset": 5,
         "text": "(UTC+05:00) Islamabad, Karachi",
-        "name": "Pakistan Standard Time"
+        "name": "Pakistan Standard Time",
+        "term": "PKT Asia/Karachi (UTC+05:00) Islamabad, Karachi"
     },
     {
         "id": "740",
@@ -2957,7 +3002,8 @@
         "tag": "IST",
         "offset": 5.5,
         "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
-        "name": "India Standard Time"
+        "name": "India Standard Time",
+        "term": "IST Asia/Kolkata (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi"
     },
     {
         "id": "741",
@@ -2965,7 +3011,8 @@
         "tag": "IST",
         "offset": 5.5,
         "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
-        "name": "India Standard Time"
+        "name": "India Standard Time",
+        "term": "IST Asia/Calcutta (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi"
     },
     {
         "id": "750",
@@ -2973,7 +3020,8 @@
         "tag": "SLST",
         "offset": 5.5,
         "text": "(UTC+05:30) Sri Jayawardenepura",
-        "name": "Sri Lanka Standard Time"
+        "name": "Sri Lanka Standard Time",
+        "term": "SLST Asia/Colombo (UTC+05:30) Sri Jayawardenepura"
     },
     {
         "id": "760",
@@ -2981,7 +3029,8 @@
         "tag": "NST",
         "offset": 5.75,
         "text": "(UTC+05:45) Kathmandu",
-        "name": "Nepal Standard Time"
+        "name": "Nepal Standard Time",
+        "term": "NST Asia/Kathmandu (UTC+05:45) Kathmandu"
     },
     {
         "id": "770",
@@ -2989,7 +3038,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Antarctica/Vostok (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "771",
@@ -2997,7 +3047,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Asia/Almaty (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "772",
@@ -3005,7 +3056,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Asia/Bishkek (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "773",
@@ -3013,7 +3065,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Asia/Qyzylorda (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "774",
@@ -3021,7 +3074,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Asia/Urumqi (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "775",
@@ -3029,7 +3083,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Etc/GMT-6 (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "776",
@@ -3037,7 +3092,8 @@
         "tag": "CAST",
         "offset": 6,
         "text": "(UTC+06:00) Nur-Sultan (Astana)",
-        "name": "Central Asia Standard Time"
+        "name": "Central Asia Standard Time",
+        "term": "CAST Indian/Chagos (UTC+06:00) Nur-Sultan (Astana)"
     },
     {
         "id": "780",
@@ -3045,7 +3101,8 @@
         "tag": "BST",
         "offset": 6,
         "text": "(UTC+06:00) Dhaka",
-        "name": "Bangladesh Standard Time"
+        "name": "Bangladesh Standard Time",
+        "term": "BST Asia/Dhaka (UTC+06:00) Dhaka"
     },
     {
         "id": "781",
@@ -3053,7 +3110,8 @@
         "tag": "BST",
         "offset": 6,
         "text": "(UTC+06:00) Dhaka",
-        "name": "Bangladesh Standard Time"
+        "name": "Bangladesh Standard Time",
+        "term": "BST Asia/Thimphu (UTC+06:00) Dhaka"
     },
     {
         "id": "790",
@@ -3061,7 +3119,8 @@
         "tag": "MST",
         "offset": 6.5,
         "text": "(UTC+06:30) Yangon (Rangoon)",
-        "name": "Myanmar Standard Time"
+        "name": "Myanmar Standard Time",
+        "term": "MST Asia/Rangoon (UTC+06:30) Yangon (Rangoon)"
     },
     {
         "id": "791",
@@ -3069,7 +3128,8 @@
         "tag": "MST",
         "offset": 6.5,
         "text": "(UTC+06:30) Yangon (Rangoon)",
-        "name": "Myanmar Standard Time"
+        "name": "Myanmar Standard Time",
+        "term": "MST Indian/Cocos (UTC+06:30) Yangon (Rangoon)"
     },
     {
         "id": "800",
@@ -3077,7 +3137,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Antarctica/Davis (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "801",
@@ -3085,7 +3146,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Bangkok (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "802",
@@ -3093,7 +3155,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Hovd (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "803",
@@ -3101,7 +3164,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Jakarta (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "804",
@@ -3109,7 +3173,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Phnom Penh (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "805",
@@ -3117,7 +3182,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Pontianak (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "806",
@@ -3125,7 +3191,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Saigon (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "807",
@@ -3133,7 +3200,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Asia/Vientiane (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "808",
@@ -3141,7 +3209,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Etc/GMT-7 (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "809",
@@ -3149,7 +3218,8 @@
         "tag": "SAST",
         "offset": 7,
         "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
-        "name": "SE Asia Standard Time"
+        "name": "SE Asia Standard Time",
+        "term": "SAST Indian/Christmas (UTC+07:00) Bangkok, Hanoi, Jakarta"
     },
     {
         "id": "810",
@@ -3157,7 +3227,8 @@
         "tag": "NCAST",
         "offset": 7,
         "text": "(UTC+07:00) Novosibirsk",
-        "name": "N. Central Asia Standard Time"
+        "name": "N. Central Asia Standard Time",
+        "term": "NCAST Asia/Novokuznetsk (UTC+07:00) Novosibirsk"
     },
     {
         "id": "811",
@@ -3165,7 +3236,8 @@
         "tag": "NCAST",
         "offset": 7,
         "text": "(UTC+07:00) Novosibirsk",
-        "name": "N. Central Asia Standard Time"
+        "name": "N. Central Asia Standard Time",
+        "term": "NCAST Asia/Novosibirsk (UTC+07:00) Novosibirsk"
     },
     {
         "id": "812",
@@ -3173,7 +3245,8 @@
         "tag": "NCAST",
         "offset": 7,
         "text": "(UTC+07:00) Novosibirsk",
-        "name": "N. Central Asia Standard Time"
+        "name": "N. Central Asia Standard Time",
+        "term": "NCAST Asia/Omsk (UTC+07:00) Novosibirsk"
     },
     {
         "id": "820",
@@ -3181,7 +3254,8 @@
         "tag": "CST",
         "offset": 8,
         "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
-        "name": "China Standard Time"
+        "name": "China Standard Time",
+        "term": "CST Asia/Hong Kong (UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
     },
     {
         "id": "821",
@@ -3189,7 +3263,8 @@
         "tag": "CST",
         "offset": 8,
         "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
-        "name": "China Standard Time"
+        "name": "China Standard Time",
+        "term": "CST Asia/Macau (UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
     },
     {
         "id": "822",
@@ -3197,7 +3272,8 @@
         "tag": "CST",
         "offset": 8,
         "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
-        "name": "China Standard Time"
+        "name": "China Standard Time",
+        "term": "CST Asia/Shanghai (UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
     },
     {
         "id": "830",
@@ -3205,7 +3281,8 @@
         "tag": "NAST",
         "offset": 8,
         "text": "(UTC+08:00) Krasnoyarsk",
-        "name": "North Asia Standard Time"
+        "name": "North Asia Standard Time",
+        "term": "NAST Asia/Krasnoyarsk (UTC+08:00) Krasnoyarsk"
     },
     {
         "id": "840",
@@ -3213,7 +3290,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Brunei (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "841",
@@ -3221,7 +3299,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Kuala Lumpur (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "842",
@@ -3229,7 +3308,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Kuching (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "843",
@@ -3237,7 +3317,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Makassar (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "844",
@@ -3245,7 +3326,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Manila (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "845",
@@ -3253,7 +3335,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Asia/Singapore (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "846",
@@ -3261,7 +3344,8 @@
         "tag": "MPST",
         "offset": 8,
         "text": "(UTC+08:00) Kuala Lumpur, Singapore",
-        "name": "Singapore Standard Time"
+        "name": "Singapore Standard Time",
+        "term": "MPST Etc/GMT-8 (UTC+08:00) Kuala Lumpur, Singapore"
     },
     {
         "id": "850",
@@ -3269,7 +3353,8 @@
         "tag": "WAST",
         "offset": 8,
         "text": "(UTC+08:00) Perth",
-        "name": "W. Australia Standard Time"
+        "name": "W. Australia Standard Time",
+        "term": "WAST Antarctica/Casey (UTC+08:00) Perth"
     },
     {
         "id": "851",
@@ -3277,7 +3362,8 @@
         "tag": "WAST",
         "offset": 8,
         "text": "(UTC+08:00) Perth",
-        "name": "W. Australia Standard Time"
+        "name": "W. Australia Standard Time",
+        "term": "WAST Australia/Perth (UTC+08:00) Perth"
     },
     {
         "id": "860",
@@ -3285,7 +3371,8 @@
         "tag": "TST",
         "offset": 8,
         "text": "(UTC+08:00) Taipei",
-        "name": "Taipei Standard Time"
+        "name": "Taipei Standard Time",
+        "term": "TST Asia/Taipei (UTC+08:00) Taipei"
     },
     {
         "id": "870",
@@ -3293,7 +3380,8 @@
         "tag": "UST",
         "offset": 8,
         "text": "(UTC+08:00) Ulaanbaatar",
-        "name": "Ulaanbaatar Standard Time"
+        "name": "Ulaanbaatar Standard Time",
+        "term": "UST Asia/Choibalsan (UTC+08:00) Ulaanbaatar"
     },
     {
         "id": "871",
@@ -3301,7 +3389,8 @@
         "tag": "UST",
         "offset": 8,
         "text": "(UTC+08:00) Ulaanbaatar",
-        "name": "Ulaanbaatar Standard Time"
+        "name": "Ulaanbaatar Standard Time",
+        "term": "UST Asia/Ulaanbaatar (UTC+08:00) Ulaanbaatar"
     },
     {
         "id": "880",
@@ -3309,7 +3398,8 @@
         "tag": "NAEST",
         "offset": 8,
         "text": "(UTC+08:00) Irkutsk",
-        "name": "North Asia East Standard Time"
+        "name": "North Asia East Standard Time",
+        "term": "NAEST Asia/Irkutsk (UTC+08:00) Irkutsk"
     },
     {
         "id": "890",
@@ -3317,7 +3407,8 @@
         "tag": "JST",
         "offset": 9,
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "name": "Japan Standard Time"
+        "name": "Japan Standard Time",
+        "term": "JST Asia/Dili (UTC+09:00) Osaka, Sapporo, Tokyo"
     },
     {
         "id": "891",
@@ -3325,7 +3416,8 @@
         "tag": "JST",
         "offset": 9,
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "name": "Japan Standard Time"
+        "name": "Japan Standard Time",
+        "term": "JST Asia/Jayapura (UTC+09:00) Osaka, Sapporo, Tokyo"
     },
     {
         "id": "892",
@@ -3333,7 +3425,8 @@
         "tag": "JST",
         "offset": 9,
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "name": "Japan Standard Time"
+        "name": "Japan Standard Time",
+        "term": "JST Asia/Tokyo (UTC+09:00) Osaka, Sapporo, Tokyo"
     },
     {
         "id": "893",
@@ -3341,7 +3434,8 @@
         "tag": "JST",
         "offset": 9,
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "name": "Japan Standard Time"
+        "name": "Japan Standard Time",
+        "term": "JST Etc/GMT-9 (UTC+09:00) Osaka, Sapporo, Tokyo"
     },
     {
         "id": "894",
@@ -3349,7 +3443,8 @@
         "tag": "JST",
         "offset": 9,
         "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
-        "name": "Japan Standard Time"
+        "name": "Japan Standard Time",
+        "term": "JST Pacific/Palau (UTC+09:00) Osaka, Sapporo, Tokyo"
     },
     {
         "id": "900",
@@ -3357,7 +3452,8 @@
         "tag": "KST",
         "offset": 9,
         "text": "(UTC+09:00) Seoul",
-        "name": "Korea Standard Time"
+        "name": "Korea Standard Time",
+        "term": "KST Asia/Pyongyang (UTC+09:00) Seoul"
     },
     {
         "id": "901",
@@ -3365,7 +3461,8 @@
         "tag": "KST",
         "offset": 9,
         "text": "(UTC+09:00) Seoul",
-        "name": "Korea Standard Time"
+        "name": "Korea Standard Time",
+        "term": "KST Asia/Seoul (UTC+09:00) Seoul"
     },
     {
         "id": "910",
@@ -3373,7 +3470,8 @@
         "tag": "CAST",
         "offset": 9.5,
         "text": "(UTC+09:30) Adelaide",
-        "name": "Cen. Australia Standard Time"
+        "name": "Cen. Australia Standard Time",
+        "term": "CAST Australia/Adelaide (UTC+09:30) Adelaide"
     },
     {
         "id": "911",
@@ -3381,7 +3479,8 @@
         "tag": "CAST",
         "offset": 9.5,
         "text": "(UTC+09:30) Adelaide",
-        "name": "Cen. Australia Standard Time"
+        "name": "Cen. Australia Standard Time",
+        "term": "CAST Australia/Broken Hill (UTC+09:30) Adelaide"
     },
     {
         "id": "920",
@@ -3389,7 +3488,8 @@
         "tag": "ACST",
         "offset": 9.5,
         "text": "(UTC+09:30) Darwin",
-        "name": "AUS Central Standard Time"
+        "name": "AUS Central Standard Time",
+        "term": "ACST Australia/Darwin (UTC+09:30) Darwin"
     },
     {
         "id": "930",
@@ -3397,7 +3497,8 @@
         "tag": "EAST",
         "offset": 10,
         "text": "(UTC+10:00) Brisbane",
-        "name": "E. Australia Standard Time"
+        "name": "E. Australia Standard Time",
+        "term": "EAST Australia/Brisbane (UTC+10:00) Brisbane"
     },
     {
         "id": "931",
@@ -3405,7 +3506,8 @@
         "tag": "EAST",
         "offset": 10,
         "text": "(UTC+10:00) Brisbane",
-        "name": "E. Australia Standard Time"
+        "name": "E. Australia Standard Time",
+        "term": "EAST Australia/Lindeman (UTC+10:00) Brisbane"
     },
     {
         "id": "940",
@@ -3413,7 +3515,8 @@
         "tag": "AEST",
         "offset": 10,
         "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
-        "name": "AUS Eastern Standard Time"
+        "name": "AUS Eastern Standard Time",
+        "term": "AEST Australia/Melbourne (UTC+10:00) Canberra, Melbourne, Sydney"
     },
     {
         "id": "941",
@@ -3421,7 +3524,8 @@
         "tag": "AEST",
         "offset": 10,
         "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
-        "name": "AUS Eastern Standard Time"
+        "name": "AUS Eastern Standard Time",
+        "term": "AEST Australia/Sydney (UTC+10:00) Canberra, Melbourne, Sydney"
     },
     {
         "id": "950",
@@ -3429,7 +3533,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Antarctica/DumontDUrville (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "951",
@@ -3437,7 +3542,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Etc/GMT-10 (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "952",
@@ -3445,7 +3551,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Pacific/Guam (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "953",
@@ -3453,7 +3560,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Pacific/Port Moresby (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "954",
@@ -3461,7 +3569,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Pacific/Saipan (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "955",
@@ -3469,7 +3578,8 @@
         "tag": "WPST",
         "offset": 10,
         "text": "(UTC+10:00) Guam, Port Moresby",
-        "name": "West Pacific Standard Time"
+        "name": "West Pacific Standard Time",
+        "term": "WPST Pacific/Truk (UTC+10:00) Guam, Port Moresby"
     },
     {
         "id": "960",
@@ -3477,7 +3587,8 @@
         "tag": "TST",
         "offset": 10,
         "text": "(UTC+10:00) Hobart",
-        "name": "Tasmania Standard Time"
+        "name": "Tasmania Standard Time",
+        "term": "TST Australia/Currie (UTC+10:00) Hobart"
     },
     {
         "id": "961",
@@ -3485,7 +3596,8 @@
         "tag": "TST",
         "offset": 10,
         "text": "(UTC+10:00) Hobart",
-        "name": "Tasmania Standard Time"
+        "name": "Tasmania Standard Time",
+        "term": "TST Australia/Hobart (UTC+10:00) Hobart"
     },
     {
         "id": "970",
@@ -3493,7 +3605,8 @@
         "tag": "YST",
         "offset": 9,
         "text": "(UTC+09:00) Yakutsk",
-        "name": "Yakutsk Standard Time"
+        "name": "Yakutsk Standard Time",
+        "term": "YST Asia/Chita (UTC+09:00) Yakutsk"
     },
     {
         "id": "971",
@@ -3501,7 +3614,8 @@
         "tag": "YST",
         "offset": 9,
         "text": "(UTC+09:00) Yakutsk",
-        "name": "Yakutsk Standard Time"
+        "name": "Yakutsk Standard Time",
+        "term": "YST Asia/Khandyga (UTC+09:00) Yakutsk"
     },
     {
         "id": "972",
@@ -3509,7 +3623,8 @@
         "tag": "YST",
         "offset": 9,
         "text": "(UTC+09:00) Yakutsk",
-        "name": "Yakutsk Standard Time"
+        "name": "Yakutsk Standard Time",
+        "term": "YST Asia/Yakutsk (UTC+09:00) Yakutsk"
     },
     {
         "id": "980",
@@ -3517,7 +3632,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Antarctica/Macquarie (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "981",
@@ -3525,7 +3641,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Etc/GMT-11 (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "982",
@@ -3533,7 +3650,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Pacific/Efate (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "983",
@@ -3541,7 +3659,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Pacific/Guadalcanal (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "984",
@@ -3549,7 +3668,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Pacific/Kosrae (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "985",
@@ -3557,7 +3677,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Pacific/Noumea (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "986",
@@ -3565,7 +3686,8 @@
         "tag": "CPST",
         "offset": 11,
         "text": "(UTC+11:00) Solomon Is., New Caledonia",
-        "name": "Central Pacific Standard Time"
+        "name": "Central Pacific Standard Time",
+        "term": "CPST Pacific/Ponape (UTC+11:00) Solomon Is., New Caledonia"
     },
     {
         "id": "990",
@@ -3573,7 +3695,8 @@
         "tag": "VST",
         "offset": 11,
         "text": "(UTC+11:00) Vladivostok",
-        "name": "Vladivostok Standard Time"
+        "name": "Vladivostok Standard Time",
+        "term": "VST Asia/Sakhalin (UTC+11:00) Vladivostok"
     },
     {
         "id": "991",
@@ -3581,7 +3704,8 @@
         "tag": "VST",
         "offset": 11,
         "text": "(UTC+11:00) Vladivostok",
-        "name": "Vladivostok Standard Time"
+        "name": "Vladivostok Standard Time",
+        "term": "VST Asia/Ust-Nera (UTC+11:00) Vladivostok"
     },
     {
         "id": "992",
@@ -3589,7 +3713,8 @@
         "tag": "VST",
         "offset": 11,
         "text": "(UTC+11:00) Vladivostok",
-        "name": "Vladivostok Standard Time"
+        "name": "Vladivostok Standard Time",
+        "term": "VST Asia/Vladivostok (UTC+11:00) Vladivostok"
     },
     {
         "id": "1000",
@@ -3597,7 +3722,8 @@
         "tag": "NZST",
         "offset": 12,
         "text": "(UTC+12:00) Auckland, Wellington",
-        "name": "New Zealand Standard Time"
+        "name": "New Zealand Standard Time",
+        "term": "NZST Antarctica/McMurdo (UTC+12:00) Auckland, Wellington"
     },
     {
         "id": "1001",
@@ -3605,7 +3731,8 @@
         "tag": "NZST",
         "offset": 12,
         "text": "(UTC+12:00) Auckland, Wellington",
-        "name": "New Zealand Standard Time"
+        "name": "New Zealand Standard Time",
+        "term": "NZST Pacific/Auckland (UTC+12:00) Auckland, Wellington"
     },
     {
         "id": "1010",
@@ -3613,7 +3740,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Etc/GMT-12 (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1011",
@@ -3621,7 +3749,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Funafuti (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1012",
@@ -3629,7 +3758,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Kwajalein (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1013",
@@ -3637,7 +3767,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Majuro (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1014",
@@ -3645,7 +3776,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Nauru (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1015",
@@ -3653,7 +3785,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Tarawa (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1016",
@@ -3661,7 +3794,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Wake (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1017",
@@ -3669,7 +3803,8 @@
         "tag": "U",
         "offset": 12,
         "text": "(UTC+12:00) Coordinated Universal Time+12",
-        "name": "UTC+12"
+        "name": "UTC+12",
+        "term": "U Pacific/Wallis (UTC+12:00) Coordinated Universal Time+12"
     },
     {
         "id": "1020",
@@ -3677,7 +3812,8 @@
         "tag": "FST",
         "offset": 12,
         "text": "(UTC+12:00) Fiji",
-        "name": "Fiji Standard Time"
+        "name": "Fiji Standard Time",
+        "term": "FST Pacific/Fiji (UTC+12:00) Fiji"
     },
     {
         "id": "1030",
@@ -3685,7 +3821,8 @@
         "tag": "MST",
         "offset": 12,
         "text": "(UTC+12:00) Magadan",
-        "name": "Magadan Standard Time"
+        "name": "Magadan Standard Time",
+        "term": "MST Asia/Anadyr (UTC+12:00) Magadan"
     },
     {
         "id": "1031",
@@ -3693,7 +3830,8 @@
         "tag": "MST",
         "offset": 12,
         "text": "(UTC+12:00) Magadan",
-        "name": "Magadan Standard Time"
+        "name": "Magadan Standard Time",
+        "term": "MST Asia/Kamchatka (UTC+12:00) Magadan KDT"
     },
     {
         "id": "1032",
@@ -3701,7 +3839,8 @@
         "tag": "MST",
         "offset": 12,
         "text": "(UTC+12:00) Magadan",
-        "name": "Magadan Standard Time"
+        "name": "Magadan Standard Time",
+        "term": "MST Asia/Magadan (UTC+12:00) Magadan"
     },
     {
         "id": "1033",
@@ -3709,15 +3848,8 @@
         "tag": "MST",
         "offset": 12,
         "text": "(UTC+12:00) Magadan",
-        "name": "Magadan Standard Time"
-    },
-    {
-        "id": "1040",
-        "code": "Asia/Kamchatka",
-        "tag": "KDT",
-        "offset": 13,
-        "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
-        "name": "Kamchatka Standard Time"
+        "name": "Magadan Standard Time",
+        "term": "MST Asia/Srednekolymsk (UTC+12:00) Magadan"
     },
     {
         "id": "1050",
@@ -3725,7 +3857,8 @@
         "tag": "TST",
         "offset": 13,
         "text": "(UTC+13:00) Nuku'alofa",
-        "name": "Tonga Standard Time"
+        "name": "Tonga Standard Time",
+        "term": "TST Etc/GMT-13 (UTC+13:00) Nuku'alofa"
     },
     {
         "id": "1051",
@@ -3733,7 +3866,8 @@
         "tag": "TST",
         "offset": 13,
         "text": "(UTC+13:00) Nuku'alofa",
-        "name": "Tonga Standard Time"
+        "name": "Tonga Standard Time",
+        "term": "TST Pacific/Enderbury (UTC+13:00) Nuku'alofa"
     },
     {
         "id": "1052",
@@ -3741,7 +3875,8 @@
         "tag": "TST",
         "offset": 13,
         "text": "(UTC+13:00) Nuku'alofa",
-        "name": "Tonga Standard Time"
+        "name": "Tonga Standard Time",
+        "term": "TST Pacific/Fakaofo (UTC+13:00) Nuku'alofa"
     },
     {
         "id": "1053",
@@ -3749,7 +3884,8 @@
         "tag": "TST",
         "offset": 13,
         "text": "(UTC+13:00) Nuku'alofa",
-        "name": "Tonga Standard Time"
+        "name": "Tonga Standard Time",
+        "term": "TST Pacific/Tongatapu (UTC+13:00) Nuku'alofa"
     },
     {
         "id": "1060",
@@ -3757,6 +3893,7 @@
         "tag": "SST",
         "offset": 13,
         "text": "(UTC+13:00) Samoa",
-        "name": "Samoa Standard Time"
+        "name": "Samoa Standard Time",
+        "term": "SST Pacific/Apia (UTC+13:00) Samoa"
     }
 ]

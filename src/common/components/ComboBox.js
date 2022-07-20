@@ -17,24 +17,11 @@ const ComboBox = ({ selectedItem, setSelectedItem }) => {
     query === ''
       ? tzs
       : tzs.filter((tz) => {
-          if (tz.tag.toLowerCase() === query.toLowerCase()) {
-            return true;
-          }
-          if (query.length > 3) {
-            return (
-              tz.name
-                .toLowerCase()
-                .replace(/\s+/g, '')
-                .includes(query.toLowerCase().replace(/\s+/g, '')) ||
-              tz.code
-                .toLowerCase()
-                .replace(/\s+/g, '')
-                .includes(query.toLowerCase().replace(/\s+/g, '')) ||
-              tz.text
-                .toLowerCase()
-                .replace(/\s+/g, '')
-                .includes(query.toLowerCase().replace(/\s+/g, ''))
-            );
+          if (query.length > 2) {
+            return tz.term
+              .toLowerCase()
+              .replace(/\s+/g, '')
+              .includes(query.toLowerCase().replace(/\s+/g, ''));
           }
           return false;
         });

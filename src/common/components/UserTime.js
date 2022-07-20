@@ -9,7 +9,7 @@ const UserTime = ({ ts }) => (
     </div>
     <div className="flex w-full flex-col items-center justify-center">
       <div className="text-6xl font-bold">{getDateTime(ts)}</div>
-      <div className="py-4 text-sm uppercase tracking-wide text-primary-light">
+      <div className="py-4 text-xs font-semibold uppercase tracking-wide text-primary-light">
         {getTimezone()}
       </div>
     </div>
