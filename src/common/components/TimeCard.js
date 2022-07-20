@@ -25,9 +25,10 @@ const TimeCard = ({ tz, handleDelete, ts }) => (
         </div>
       </div>
       <div className="flex justify-between text-xs text-primary-light">
-        <div>{tz.name}</div>
+        <div>{getDateTime(ts, 'zzz', tz.code)}</div>
         <div className="font-semibold text-brand">
           {getDateTime(ts, 'Z', tz.code)}
+          <span className="text-primary-light"> UTC</span>
         </div>
       </div>
     </div>
