@@ -61,6 +61,13 @@ const RemoteTime = ({ theme, ts }) => {
           <PlusIcon className="h-5" />
         </Button>
       </div>
+      {timezones.length < 1 && (
+        <div className="w-full py-16 text-center text-sm font-medium leading-6 text-primary-light sm:text-lg">
+          Your watchlist is empty 🤔
+          <br />
+          Try adding new timezone to your watchlist. 🤩 😎
+        </div>
+      )}
       <div className="flex w-full flex-wrap py-3">
         {timezones.map((tz) => (
           <TimeCard key={tz.id} tz={tz} handleDelete={handleDelete} ts={ts} />
@@ -92,7 +99,7 @@ export const MemorizedModal = ({
       <Modal
         isActive={showModal}
         onClose={() => setShowModal(false)}
-        title="Add New Zone"
+        title="Add Timezone"
         theme={theme}
       >
         <div className="w-full px-3 py-3 pb-16">
