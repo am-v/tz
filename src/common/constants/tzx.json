@@ -1,0 +1,3762 @@
+[
+    {
+        "id": "00",
+        "code": "Etc/GMT+12",
+        "tag": "DST",
+        "offset": -12,
+        "text": "(UTC-12:00) International Date Line West",
+        "name": "Dateline Standard Time"
+    },
+    {
+        "id": "10",
+        "code": "Etc/GMT+11",
+        "tag": "U",
+        "offset": -11,
+        "text": "(UTC-11:00) Coordinated Universal Time-11",
+        "name": "UTC-11"
+    },
+    {
+        "id": "11",
+        "code": "Pacific/Midway",
+        "tag": "U",
+        "offset": -11,
+        "text": "(UTC-11:00) Coordinated Universal Time-11",
+        "name": "UTC-11"
+    },
+    {
+        "id": "12",
+        "code": "Pacific/Niue",
+        "tag": "U",
+        "offset": -11,
+        "text": "(UTC-11:00) Coordinated Universal Time-11",
+        "name": "UTC-11"
+    },
+    {
+        "id": "13",
+        "code": "Pacific/Pago_Pago",
+        "tag": "U",
+        "offset": -11,
+        "text": "(UTC-11:00) Coordinated Universal Time-11",
+        "name": "UTC-11"
+    },
+    {
+        "id": "20",
+        "code": "Etc/GMT+10",
+        "tag": "HST",
+        "offset": -10,
+        "text": "(UTC-10:00) Hawaii",
+        "name": "Hawaiian Standard Time"
+    },
+    {
+        "id": "21",
+        "code": "Pacific/Honolulu",
+        "tag": "HST",
+        "offset": -10,
+        "text": "(UTC-10:00) Hawaii",
+        "name": "Hawaiian Standard Time"
+    },
+    {
+        "id": "22",
+        "code": "Pacific/Johnston",
+        "tag": "HST",
+        "offset": -10,
+        "text": "(UTC-10:00) Hawaii",
+        "name": "Hawaiian Standard Time"
+    },
+    {
+        "id": "23",
+        "code": "Pacific/Rarotonga",
+        "tag": "HST",
+        "offset": -10,
+        "text": "(UTC-10:00) Hawaii",
+        "name": "Hawaiian Standard Time"
+    },
+    {
+        "id": "24",
+        "code": "Pacific/Tahiti",
+        "tag": "HST",
+        "offset": -10,
+        "text": "(UTC-10:00) Hawaii",
+        "name": "Hawaiian Standard Time"
+    },
+    {
+        "id": "30",
+        "code": "America/Anchorage",
+        "tag": "AKDT",
+        "offset": -8,
+        "text": "(UTC-09:00) Alaska",
+        "name": "Alaskan Standard Time"
+    },
+    {
+        "id": "31",
+        "code": "America/Juneau",
+        "tag": "AKDT",
+        "offset": -8,
+        "text": "(UTC-09:00) Alaska",
+        "name": "Alaskan Standard Time"
+    },
+    {
+        "id": "32",
+        "code": "America/Nome",
+        "tag": "AKDT",
+        "offset": -8,
+        "text": "(UTC-09:00) Alaska",
+        "name": "Alaskan Standard Time"
+    },
+    {
+        "id": "33",
+        "code": "America/Sitka",
+        "tag": "AKDT",
+        "offset": -8,
+        "text": "(UTC-09:00) Alaska",
+        "name": "Alaskan Standard Time"
+    },
+    {
+        "id": "34",
+        "code": "America/Yakutat",
+        "tag": "AKDT",
+        "offset": -8,
+        "text": "(UTC-09:00) Alaska",
+        "name": "Alaskan Standard Time"
+    },
+    {
+        "id": "40",
+        "code": "America/Santa_Isabel",
+        "tag": "PDT",
+        "offset": -7,
+        "text": "(UTC-08:00) Baja California",
+        "name": "Pacific Standard Time (Mexico)"
+    },
+    {
+        "id": "50",
+        "code": "America/Los_Angeles",
+        "tag": "PDT",
+        "offset": -7,
+        "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
+        "name": "Pacific Daylight Time"
+    },
+    {
+        "id": "51",
+        "code": "America/Tijuana",
+        "tag": "PDT",
+        "offset": -7,
+        "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
+        "name": "Pacific Daylight Time"
+    },
+    {
+        "id": "52",
+        "code": "America/Vancouver",
+        "tag": "PDT",
+        "offset": -7,
+        "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
+        "name": "Pacific Daylight Time"
+    },
+    {
+        "id": "60",
+        "code": "America/Los_Angeles",
+        "tag": "PST",
+        "offset": -8,
+        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
+        "name": "Pacific Standard Time"
+    },
+    {
+        "id": "61",
+        "code": "America/Tijuana",
+        "tag": "PST",
+        "offset": -8,
+        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
+        "name": "Pacific Standard Time"
+    },
+    {
+        "id": "62",
+        "code": "America/Vancouver",
+        "tag": "PST",
+        "offset": -8,
+        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
+        "name": "Pacific Standard Time"
+    },
+    {
+        "id": "63",
+        "code": "PST8PDT",
+        "tag": "PST",
+        "offset": -8,
+        "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
+        "name": "Pacific Standard Time"
+    },
+    {
+        "id": "70",
+        "code": "America/Creston",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "71",
+        "code": "America/Dawson",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "72",
+        "code": "America/Dawson_Creek",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "73",
+        "code": "America/Hermosillo",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "74",
+        "code": "America/Phoenix",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "75",
+        "code": "America/Whitehorse",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "76",
+        "code": "Etc/GMT+7",
+        "tag": "UMST",
+        "offset": -7,
+        "text": "(UTC-07:00) Arizona",
+        "name": "US Mountain Standard Time"
+    },
+    {
+        "id": "80",
+        "code": "America/Chihuahua",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+        "name": "Mountain Standard Time (Mexico)"
+    },
+    {
+        "id": "81",
+        "code": "America/Mazatlan",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+        "name": "Mountain Standard Time (Mexico)"
+    },
+    {
+        "id": "90",
+        "code": "America/Boise",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "91",
+        "code": "America/Cambridge_Bay",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "92",
+        "code": "America/Denver",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "93",
+        "code": "America/Edmonton",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "94",
+        "code": "America/Inuvik",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "95",
+        "code": "America/Ojinaga",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "96",
+        "code": "America/Yellowknife",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "97",
+        "code": "MST7MDT",
+        "tag": "MDT",
+        "offset": -6,
+        "text": "(UTC-07:00) Mountain Time (US & Canada)",
+        "name": "Mountain Standard Time"
+    },
+    {
+        "id": "100",
+        "code": "America/Belize",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "101",
+        "code": "America/Costa_Rica",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "102",
+        "code": "America/El_Salvador",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "103",
+        "code": "America/Guatemala",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "104",
+        "code": "America/Managua",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "105",
+        "code": "America/Tegucigalpa",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "106",
+        "code": "Etc/GMT+6",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "107",
+        "code": "Pacific/Galapagos",
+        "tag": "CAST",
+        "offset": -6,
+        "text": "(UTC-06:00) Central America",
+        "name": "Central America Standard Time"
+    },
+    {
+        "id": "110",
+        "code": "America/Chicago",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "111",
+        "code": "America/Indiana/Knox",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "112",
+        "code": "America/Indiana/Tell_City",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "113",
+        "code": "America/Matamoros",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "114",
+        "code": "America/Menominee",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "115",
+        "code": "America/North_Dakota/Beulah",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "116",
+        "code": "America/North_Dakota/Center",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "117",
+        "code": "America/North_Dakota/New_Salem",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "118",
+        "code": "America/Rainy_River",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "119",
+        "code": "America/Rankin_Inlet",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "1110",
+        "code": "America/Resolute",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "1111",
+        "code": "America/Winnipeg",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "1112",
+        "code": "CST6CDT",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Central Time (US & Canada)",
+        "name": "Central Standard Time"
+    },
+    {
+        "id": "120",
+        "code": "America/Bahia_Banderas",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "name": "Central Standard Time (Mexico)"
+    },
+    {
+        "id": "121",
+        "code": "America/Cancun",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "name": "Central Standard Time (Mexico)"
+    },
+    {
+        "id": "122",
+        "code": "America/Merida",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "name": "Central Standard Time (Mexico)"
+    },
+    {
+        "id": "123",
+        "code": "America/Mexico_City",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "name": "Central Standard Time (Mexico)"
+    },
+    {
+        "id": "124",
+        "code": "America/Monterrey",
+        "tag": "CDT",
+        "offset": -5,
+        "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "name": "Central Standard Time (Mexico)"
+    },
+    {
+        "id": "130",
+        "code": "America/Regina",
+        "tag": "CCST",
+        "offset": -6,
+        "text": "(UTC-06:00) Saskatchewan",
+        "name": "Canada Central Standard Time"
+    },
+    {
+        "id": "131",
+        "code": "America/Swift_Current",
+        "tag": "CCST",
+        "offset": -6,
+        "text": "(UTC-06:00) Saskatchewan",
+        "name": "Canada Central Standard Time"
+    },
+    {
+        "id": "140",
+        "code": "America/Bogota",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "141",
+        "code": "America/Cayman",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "142",
+        "code": "America/Coral_Harbour",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "143",
+        "code": "America/Eirunepe",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "144",
+        "code": "America/Guayaquil",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "145",
+        "code": "America/Jamaica",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "146",
+        "code": "America/Lima",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "147",
+        "code": "America/Panama",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "148",
+        "code": "America/Rio_Branco",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "149",
+        "code": "Etc/GMT+5",
+        "tag": "SPST",
+        "offset": -5,
+        "text": "(UTC-05:00) Bogota, Lima, Quito",
+        "name": "SA Pacific Standard Time"
+    },
+    {
+        "id": "150",
+        "code": "America/Detroit",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "151",
+        "code": "America/Havana",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "152",
+        "code": "America/Indiana/Petersburg",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "153",
+        "code": "America/Indiana/Vincennes",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "154",
+        "code": "America/Indiana/Winamac",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "155",
+        "code": "America/Iqaluit",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "156",
+        "code": "America/Kentucky/Monticello",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "157",
+        "code": "America/Louisville",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "158",
+        "code": "America/Montreal",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "159",
+        "code": "America/Nassau",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1510",
+        "code": "America/New_York",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1511",
+        "code": "America/Nipigon",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1512",
+        "code": "America/Pangnirtung",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1513",
+        "code": "America/Port-au-Prince",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1514",
+        "code": "America/Thunder_Bay",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "1515",
+        "code": "America/Toronto",
+        "tag": "EST",
+        "offset": -5,
+        "text": "(UTC-05:00) Eastern Time (US & Canada)",
+        "name": "Eastern Standard Time"
+    },
+    {
+        "id": "160",
+        "code": "America/Detroit",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "161",
+        "code": "America/Havana",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "162",
+        "code": "America/Indiana/Petersburg",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "163",
+        "code": "America/Indiana/Vincennes",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "164",
+        "code": "America/Indiana/Winamac",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "165",
+        "code": "America/Iqaluit",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "166",
+        "code": "America/Kentucky/Monticello",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "167",
+        "code": "America/Louisville",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "168",
+        "code": "America/Montreal",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "169",
+        "code": "America/Nassau",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1610",
+        "code": "America/New_York",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1611",
+        "code": "America/Nipigon",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1612",
+        "code": "America/Pangnirtung",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1613",
+        "code": "America/Port-au-Prince",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1614",
+        "code": "America/Thunder_Bay",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "1615",
+        "code": "America/Toronto",
+        "tag": "EDT",
+        "offset": -4,
+        "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+        "name": "Eastern Daylight Time"
+    },
+    {
+        "id": "170",
+        "code": "America/Indiana/Marengo",
+        "tag": "UEDT",
+        "offset": -5,
+        "text": "(UTC-05:00) Indiana (East)",
+        "name": "US Eastern Standard Time"
+    },
+    {
+        "id": "171",
+        "code": "America/Indiana/Vevay",
+        "tag": "UEDT",
+        "offset": -5,
+        "text": "(UTC-05:00) Indiana (East)",
+        "name": "US Eastern Standard Time"
+    },
+    {
+        "id": "172",
+        "code": "America/Indianapolis",
+        "tag": "UEDT",
+        "offset": -5,
+        "text": "(UTC-05:00) Indiana (East)",
+        "name": "US Eastern Standard Time"
+    },
+    {
+        "id": "180",
+        "code": "America/Caracas",
+        "tag": "VST",
+        "offset": -4.5,
+        "text": "(UTC-04:30) Caracas",
+        "name": "Venezuela Standard Time"
+    },
+    {
+        "id": "190",
+        "code": "America/Asuncion",
+        "tag": "PYT",
+        "offset": -4,
+        "text": "(UTC-04:00) Asuncion",
+        "name": "Paraguay Standard Time"
+    },
+    {
+        "id": "200",
+        "code": "America/Glace_Bay",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "201",
+        "code": "America/Goose_Bay",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "202",
+        "code": "America/Halifax",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "203",
+        "code": "America/Moncton",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "204",
+        "code": "America/Thule",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "205",
+        "code": "Atlantic/Bermuda",
+        "tag": "ADT",
+        "offset": -3,
+        "text": "(UTC-04:00) Atlantic Time (Canada)",
+        "name": "Atlantic Standard Time"
+    },
+    {
+        "id": "210",
+        "code": "America/Campo_Grande",
+        "tag": "CBST",
+        "offset": -4,
+        "text": "(UTC-04:00) Cuiaba",
+        "name": "Central Brazilian Standard Time"
+    },
+    {
+        "id": "211",
+        "code": "America/Cuiaba",
+        "tag": "CBST",
+        "offset": -4,
+        "text": "(UTC-04:00) Cuiaba",
+        "name": "Central Brazilian Standard Time"
+    },
+    {
+        "id": "220",
+        "code": "America/Anguilla",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "221",
+        "code": "America/Antigua",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "222",
+        "code": "America/Aruba",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "223",
+        "code": "America/Barbados",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "224",
+        "code": "America/Blanc-Sablon",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "225",
+        "code": "America/Boa_Vista",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "226",
+        "code": "America/Curacao",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "227",
+        "code": "America/Dominica",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "228",
+        "code": "America/Grand_Turk",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "229",
+        "code": "America/Grenada",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2210",
+        "code": "America/Guadeloupe",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2211",
+        "code": "America/Guyana",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2212",
+        "code": "America/Kralendijk",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2213",
+        "code": "America/La_Paz",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2214",
+        "code": "America/Lower_Princes",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2215",
+        "code": "America/Manaus",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2216",
+        "code": "America/Marigot",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2217",
+        "code": "America/Martinique",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2218",
+        "code": "America/Montserrat",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2219",
+        "code": "America/Port_of_Spain",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2220",
+        "code": "America/Porto_Velho",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2221",
+        "code": "America/Puerto_Rico",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2222",
+        "code": "America/Santo_Domingo",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2223",
+        "code": "America/St_Barthelemy",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2224",
+        "code": "America/St_Kitts",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2225",
+        "code": "America/St_Lucia",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2226",
+        "code": "America/St_Thomas",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2227",
+        "code": "America/St_Vincent",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2228",
+        "code": "America/Tortola",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "2229",
+        "code": "Etc/GMT+4",
+        "tag": "SWST",
+        "offset": -4,
+        "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "name": "SA Western Standard Time"
+    },
+    {
+        "id": "230",
+        "code": "America/Santiago",
+        "tag": "PSST",
+        "offset": -4,
+        "text": "(UTC-04:00) Santiago",
+        "name": "Pacific SA Standard Time"
+    },
+    {
+        "id": "231",
+        "code": "Antarctica/Palmer",
+        "tag": "PSST",
+        "offset": -4,
+        "text": "(UTC-04:00) Santiago",
+        "name": "Pacific SA Standard Time"
+    },
+    {
+        "id": "240",
+        "code": "America/St_Johns",
+        "tag": "NDT",
+        "offset": -2.5,
+        "text": "(UTC-03:30) Newfoundland",
+        "name": "Newfoundland Standard Time"
+    },
+    {
+        "id": "250",
+        "code": "America/Sao_Paulo",
+        "tag": "ESAST",
+        "offset": -3,
+        "text": "(UTC-03:00) Brasilia",
+        "name": "E. South America Standard Time"
+    },
+    {
+        "id": "260",
+        "code": "America/Argentina/La_Rioja",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "261",
+        "code": "America/Argentina/Rio_Gallegos",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "262",
+        "code": "America/Argentina/Salta",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "263",
+        "code": "America/Argentina/San_Juan",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "264",
+        "code": "America/Argentina/San_Luis",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "265",
+        "code": "America/Argentina/Tucuman",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "266",
+        "code": "America/Argentina/Ushuaia",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "267",
+        "code": "America/Buenos_Aires",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "268",
+        "code": "America/Catamarca",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "269",
+        "code": "America/Cordoba",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "2610",
+        "code": "America/Jujuy",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "2611",
+        "code": "America/Mendoza",
+        "tag": "AST",
+        "offset": -3,
+        "text": "(UTC-03:00) Buenos Aires",
+        "name": "Argentina Standard Time"
+    },
+    {
+        "id": "270",
+        "code": "America/Araguaina",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "271",
+        "code": "America/Belem",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "272",
+        "code": "America/Cayenne",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "273",
+        "code": "America/Fortaleza",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "274",
+        "code": "America/Maceio",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "275",
+        "code": "America/Paramaribo",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "276",
+        "code": "America/Recife",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "277",
+        "code": "America/Santarem",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "278",
+        "code": "Antarctica/Rothera",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "279",
+        "code": "Atlantic/Stanley",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "2710",
+        "code": "Etc/GMT+3",
+        "tag": "SEST",
+        "offset": -3,
+        "text": "(UTC-03:00) Cayenne, Fortaleza",
+        "name": "SA Eastern Standard Time"
+    },
+    {
+        "id": "280",
+        "code": "America/Godthab",
+        "tag": "GDT",
+        "offset": -3,
+        "text": "(UTC-03:00) Greenland",
+        "name": "Greenland Standard Time"
+    },
+    {
+        "id": "290",
+        "code": "America/Montevideo",
+        "tag": "MST",
+        "offset": -3,
+        "text": "(UTC-03:00) Montevideo",
+        "name": "Montevideo Standard Time"
+    },
+    {
+        "id": "300",
+        "code": "America/Bahia",
+        "tag": "BST",
+        "offset": -3,
+        "text": "(UTC-03:00) Salvador",
+        "name": "Bahia Standard Time"
+    },
+    {
+        "id": "310",
+        "code": "America/Noronha",
+        "tag": "U",
+        "offset": -2,
+        "text": "(UTC-02:00) Coordinated Universal Time-02",
+        "name": "UTC-02"
+    },
+    {
+        "id": "311",
+        "code": "Atlantic/South_Georgia",
+        "tag": "U",
+        "offset": -2,
+        "text": "(UTC-02:00) Coordinated Universal Time-02",
+        "name": "UTC-02"
+    },
+    {
+        "id": "312",
+        "code": "Etc/GMT+2",
+        "tag": "U",
+        "offset": -2,
+        "text": "(UTC-02:00) Coordinated Universal Time-02",
+        "name": "UTC-02"
+    },
+    {
+        "id": "330",
+        "code": "America/Scoresbysund",
+        "tag": "ADT",
+        "offset": 0,
+        "text": "(UTC-01:00) Azores",
+        "name": "Azores Standard Time"
+    },
+    {
+        "id": "331",
+        "code": "Atlantic/Azores",
+        "tag": "ADT",
+        "offset": 0,
+        "text": "(UTC-01:00) Azores",
+        "name": "Azores Standard Time"
+    },
+    {
+        "id": "340",
+        "code": "Atlantic/Cape_Verde",
+        "tag": "CVST",
+        "offset": -1,
+        "text": "(UTC-01:00) Cape Verde Is.",
+        "name": "Cape Verde Standard Time"
+    },
+    {
+        "id": "341",
+        "code": "Etc/GMT+1",
+        "tag": "CVST",
+        "offset": -1,
+        "text": "(UTC-01:00) Cape Verde Is.",
+        "name": "Cape Verde Standard Time"
+    },
+    {
+        "id": "350",
+        "code": "Africa/Casablanca",
+        "tag": "MDT",
+        "offset": 1,
+        "text": "(UTC) Casablanca",
+        "name": "Morocco Standard Time"
+    },
+    {
+        "id": "351",
+        "code": "Africa/El_Aaiun",
+        "tag": "MDT",
+        "offset": 1,
+        "text": "(UTC) Casablanca",
+        "name": "Morocco Standard Time"
+    },
+    {
+        "id": "360",
+        "code": "America/Danmarkshavn",
+        "tag": "UTC",
+        "offset": 0,
+        "text": "(UTC) Coordinated Universal Time",
+        "name": "UTC"
+    },
+    {
+        "id": "361",
+        "code": "Etc/GMT",
+        "tag": "UTC",
+        "offset": 0,
+        "text": "(UTC) Coordinated Universal Time",
+        "name": "UTC"
+    },
+    {
+        "id": "370",
+        "code": "Europe/Isle_of_Man",
+        "tag": "GMT",
+        "offset": 0,
+        "text": "(UTC) Edinburgh, London",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "371",
+        "code": "Europe/Guernsey",
+        "tag": "GMT",
+        "offset": 0,
+        "text": "(UTC) Edinburgh, London",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "372",
+        "code": "Europe/Jersey",
+        "tag": "GMT",
+        "offset": 0,
+        "text": "(UTC) Edinburgh, London",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "373",
+        "code": "Europe/London",
+        "tag": "GMT",
+        "offset": 0,
+        "text": "(UTC) Edinburgh, London",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "380",
+        "code": "Europe/Isle_of_Man",
+        "tag": "BST",
+        "offset": 1,
+        "text": "(UTC+01:00) Edinburgh, London",
+        "name": "British Summer Time"
+    },
+    {
+        "id": "381",
+        "code": "Europe/Guernsey",
+        "tag": "BST",
+        "offset": 1,
+        "text": "(UTC+01:00) Edinburgh, London",
+        "name": "British Summer Time"
+    },
+    {
+        "id": "382",
+        "code": "Europe/Jersey",
+        "tag": "BST",
+        "offset": 1,
+        "text": "(UTC+01:00) Edinburgh, London",
+        "name": "British Summer Time"
+    },
+    {
+        "id": "383",
+        "code": "Europe/London",
+        "tag": "BST",
+        "offset": 1,
+        "text": "(UTC+01:00) Edinburgh, London",
+        "name": "British Summer Time"
+    },
+    {
+        "id": "390",
+        "code": "Atlantic/Canary",
+        "tag": "GDT",
+        "offset": 1,
+        "text": "(UTC) Dublin, Lisbon",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "391",
+        "code": "Atlantic/Faeroe",
+        "tag": "GDT",
+        "offset": 1,
+        "text": "(UTC) Dublin, Lisbon",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "392",
+        "code": "Atlantic/Madeira",
+        "tag": "GDT",
+        "offset": 1,
+        "text": "(UTC) Dublin, Lisbon",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "393",
+        "code": "Europe/Dublin",
+        "tag": "GDT",
+        "offset": 1,
+        "text": "(UTC) Dublin, Lisbon",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "394",
+        "code": "Europe/Lisbon",
+        "tag": "GDT",
+        "offset": 1,
+        "text": "(UTC) Dublin, Lisbon",
+        "name": "GMT Standard Time"
+    },
+    {
+        "id": "400",
+        "code": "Africa/Abidjan",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "401",
+        "code": "Africa/Accra",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "402",
+        "code": "Africa/Bamako",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "403",
+        "code": "Africa/Banjul",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "404",
+        "code": "Africa/Bissau",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "405",
+        "code": "Africa/Conakry",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "406",
+        "code": "Africa/Dakar",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "407",
+        "code": "Africa/Freetown",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "408",
+        "code": "Africa/Lome",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "409",
+        "code": "Africa/Monrovia",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "4010",
+        "code": "Africa/Nouakchott",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "4011",
+        "code": "Africa/Ouagadougou",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "4012",
+        "code": "Africa/Sao_Tome",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "4013",
+        "code": "Atlantic/Reykjavik",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "4014",
+        "code": "Atlantic/St_Helena",
+        "tag": "GST",
+        "offset": 0,
+        "text": "(UTC) Monrovia, Reykjavik",
+        "name": "Greenwich Standard Time"
+    },
+    {
+        "id": "410",
+        "code": "Arctic/Longyearbyen",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "411",
+        "code": "Europe/Amsterdam",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "412",
+        "code": "Europe/Andorra",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "413",
+        "code": "Europe/Berlin",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "414",
+        "code": "Europe/Busingen",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "415",
+        "code": "Europe/Gibraltar",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "416",
+        "code": "Europe/Luxembourg",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "417",
+        "code": "Europe/Malta",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "418",
+        "code": "Europe/Monaco",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "419",
+        "code": "Europe/Oslo",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4110",
+        "code": "Europe/Rome",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4111",
+        "code": "Europe/San_Marino",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4112",
+        "code": "Europe/Stockholm",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4113",
+        "code": "Europe/Vaduz",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4114",
+        "code": "Europe/Vatican",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4115",
+        "code": "Europe/Vienna",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "4116",
+        "code": "Europe/Zurich",
+        "tag": "WEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "name": "W. Europe Standard Time"
+    },
+    {
+        "id": "420",
+        "code": "Europe/Belgrade",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "421",
+        "code": "Europe/Bratislava",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "422",
+        "code": "Europe/Budapest",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "423",
+        "code": "Europe/Ljubljana",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "424",
+        "code": "Europe/Podgorica",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "425",
+        "code": "Europe/Prague",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "426",
+        "code": "Europe/Tirane",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "name": "Central Europe Standard Time"
+    },
+    {
+        "id": "430",
+        "code": "Africa/Ceuta",
+        "tag": "RDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "name": "Romance Standard Time"
+    },
+    {
+        "id": "431",
+        "code": "Europe/Brussels",
+        "tag": "RDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "name": "Romance Standard Time"
+    },
+    {
+        "id": "432",
+        "code": "Europe/Copenhagen",
+        "tag": "RDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "name": "Romance Standard Time"
+    },
+    {
+        "id": "433",
+        "code": "Europe/Madrid",
+        "tag": "RDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "name": "Romance Standard Time"
+    },
+    {
+        "id": "434",
+        "code": "Europe/Paris",
+        "tag": "RDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "name": "Romance Standard Time"
+    },
+    {
+        "id": "440",
+        "code": "Europe/Sarajevo",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+        "name": "Central European Standard Time"
+    },
+    {
+        "id": "441",
+        "code": "Europe/Skopje",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+        "name": "Central European Standard Time"
+    },
+    {
+        "id": "442",
+        "code": "Europe/Warsaw",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+        "name": "Central European Standard Time"
+    },
+    {
+        "id": "443",
+        "code": "Europe/Zagreb",
+        "tag": "CEDT",
+        "offset": 2,
+        "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+        "name": "Central European Standard Time"
+    },
+    {
+        "id": "450",
+        "code": "Africa/Algiers",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "451",
+        "code": "Africa/Bangui",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "452",
+        "code": "Africa/Brazzaville",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "453",
+        "code": "Africa/Douala",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "454",
+        "code": "Africa/Kinshasa",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "455",
+        "code": "Africa/Lagos",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "456",
+        "code": "Africa/Libreville",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "457",
+        "code": "Africa/Luanda",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "458",
+        "code": "Africa/Malabo",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "459",
+        "code": "Africa/Ndjamena",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "4510",
+        "code": "Africa/Niamey",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "4511",
+        "code": "Africa/Porto-Novo",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "4512",
+        "code": "Africa/Tunis",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "4513",
+        "code": "Etc/GMT-1",
+        "tag": "WCAST",
+        "offset": 1,
+        "text": "(UTC+01:00) West Central Africa",
+        "name": "W. Central Africa Standard Time"
+    },
+    {
+        "id": "460",
+        "code": "Africa/Windhoek",
+        "tag": "NST",
+        "offset": 1,
+        "text": "(UTC+01:00) Windhoek",
+        "name": "Namibia Standard Time"
+    },
+    {
+        "id": "470",
+        "code": "Asia/Nicosia",
+        "tag": "GDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Athens, Bucharest",
+        "name": "GTB Standard Time"
+    },
+    {
+        "id": "471",
+        "code": "Europe/Athens",
+        "tag": "GDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Athens, Bucharest",
+        "name": "GTB Standard Time"
+    },
+    {
+        "id": "472",
+        "code": "Europe/Bucharest",
+        "tag": "GDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Athens, Bucharest",
+        "name": "GTB Standard Time"
+    },
+    {
+        "id": "473",
+        "code": "Europe/Chisinau",
+        "tag": "GDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Athens, Bucharest",
+        "name": "GTB Standard Time"
+    },
+    {
+        "id": "480",
+        "code": "Asia/Beirut",
+        "tag": "MEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Beirut",
+        "name": "Middle East Standard Time"
+    },
+    {
+        "id": "490",
+        "code": "Africa/Cairo",
+        "tag": "EST",
+        "offset": 2,
+        "text": "(UTC+02:00) Cairo",
+        "name": "Egypt Standard Time"
+    },
+    {
+        "id": "500",
+        "code": "Asia/Damascus",
+        "tag": "SDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Damascus",
+        "name": "Syria Standard Time"
+    },
+    {
+        "id": "510",
+        "code": "Asia/Nicosia",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "511",
+        "code": "Europe/Athens",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "512",
+        "code": "Europe/Bucharest",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "513",
+        "code": "Europe/Chisinau",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "514",
+        "code": "Europe/Helsinki",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "515",
+        "code": "Europe/Kiev",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "516",
+        "code": "Europe/Mariehamn",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "517",
+        "code": "Europe/Nicosia",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "518",
+        "code": "Europe/Riga",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "519",
+        "code": "Europe/Sofia",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "5110",
+        "code": "Europe/Tallinn",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "5111",
+        "code": "Europe/Uzhgorod",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "5112",
+        "code": "Europe/Vilnius",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "5113",
+        "code": "Europe/Zaporozhye",
+        "tag": "EEDT",
+        "offset": 3,
+        "text": "(UTC+02:00) E. Europe",
+        "name": "E. Europe Standard Time"
+    },
+    {
+        "id": "520",
+        "code": "Africa/Blantyre",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "521",
+        "code": "Africa/Bujumbura",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "522",
+        "code": "Africa/Gaborone",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "523",
+        "code": "Africa/Harare",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "524",
+        "code": "Africa/Johannesburg",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "525",
+        "code": "Africa/Kigali",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "526",
+        "code": "Africa/Lubumbashi",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "527",
+        "code": "Africa/Lusaka",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "528",
+        "code": "Africa/Maputo",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "529",
+        "code": "Africa/Maseru",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "5210",
+        "code": "Africa/Mbabane",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "5211",
+        "code": "Etc/GMT-2",
+        "tag": "SAST",
+        "offset": 2,
+        "text": "(UTC+02:00) Harare, Pretoria",
+        "name": "South Africa Standard Time"
+    },
+    {
+        "id": "530",
+        "code": "Europe/Helsinki",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "531",
+        "code": "Europe/Kiev",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "532",
+        "code": "Europe/Mariehamn",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "533",
+        "code": "Europe/Riga",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "534",
+        "code": "Europe/Sofia",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "535",
+        "code": "Europe/Tallinn",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "536",
+        "code": "Europe/Uzhgorod",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "537",
+        "code": "Europe/Vilnius",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "538",
+        "code": "Europe/Zaporozhye",
+        "tag": "FDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "name": "FLE Standard Time"
+    },
+    {
+        "id": "540",
+        "code": "Europe/Istanbul",
+        "tag": "TDT",
+        "offset": 3,
+        "text": "(UTC+03:00) Istanbul",
+        "name": "Turkey Standard Time"
+    },
+    {
+        "id": "550",
+        "code": "Asia/Jerusalem",
+        "tag": "JDT",
+        "offset": 3,
+        "text": "(UTC+02:00) Jerusalem",
+        "name": "Israel Standard Time"
+    },
+    {
+        "id": "560",
+        "code": "Africa/Tripoli",
+        "tag": "LST",
+        "offset": 2,
+        "text": "(UTC+02:00) Tripoli",
+        "name": "Libya Standard Time"
+    },
+    {
+        "id": "570",
+        "code": "Asia/Amman",
+        "tag": "JST",
+        "offset": 3,
+        "text": "(UTC+03:00) Amman",
+        "name": "Jordan Standard Time"
+    },
+    {
+        "id": "580",
+        "code": "Asia/Baghdad",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Baghdad",
+        "name": "Arabic Standard Time"
+    },
+    {
+        "id": "590",
+        "code": "Europe/Kaliningrad",
+        "tag": "KST",
+        "offset": 3,
+        "text": "(UTC+02:00) Kaliningrad",
+        "name": "Kaliningrad Standard Time"
+    },
+    {
+        "id": "600",
+        "code": "Asia/Aden",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Kuwait, Riyadh",
+        "name": "Arab Standard Time"
+    },
+    {
+        "id": "601",
+        "code": "Asia/Bahrain",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Kuwait, Riyadh",
+        "name": "Arab Standard Time"
+    },
+    {
+        "id": "602",
+        "code": "Asia/Kuwait",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Kuwait, Riyadh",
+        "name": "Arab Standard Time"
+    },
+    {
+        "id": "603",
+        "code": "Asia/Qatar",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Kuwait, Riyadh",
+        "name": "Arab Standard Time"
+    },
+    {
+        "id": "604",
+        "code": "Asia/Riyadh",
+        "tag": "AST",
+        "offset": 3,
+        "text": "(UTC+03:00) Kuwait, Riyadh",
+        "name": "Arab Standard Time"
+    },
+    {
+        "id": "610",
+        "code": "Africa/Addis_Ababa",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "611",
+        "code": "Africa/Asmera",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "612",
+        "code": "Africa/Dar_es_Salaam",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "613",
+        "code": "Africa/Djibouti",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "614",
+        "code": "Africa/Juba",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "615",
+        "code": "Africa/Kampala",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "616",
+        "code": "Africa/Khartoum",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "617",
+        "code": "Africa/Mogadishu",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "618",
+        "code": "Africa/Nairobi",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "619",
+        "code": "Antarctica/Syowa",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "6110",
+        "code": "Etc/GMT-3",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "6111",
+        "code": "Indian/Antananarivo",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "6112",
+        "code": "Indian/Comoro",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "6113",
+        "code": "Indian/Mayotte",
+        "tag": "EAST",
+        "offset": 3,
+        "text": "(UTC+03:00) Nairobi",
+        "name": "E. Africa Standard Time"
+    },
+    {
+        "id": "620",
+        "code": "Europe/Kirov",
+        "tag": "MSK",
+        "offset": 3,
+        "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+        "name": "Moscow Standard Time"
+    },
+    {
+        "id": "621",
+        "code": "Europe/Moscow",
+        "tag": "MSK",
+        "offset": 3,
+        "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+        "name": "Moscow Standard Time"
+    },
+    {
+        "id": "622",
+        "code": "Europe/Simferopol",
+        "tag": "MSK",
+        "offset": 3,
+        "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+        "name": "Moscow Standard Time"
+    },
+    {
+        "id": "623",
+        "code": "Europe/Volgograd",
+        "tag": "MSK",
+        "offset": 3,
+        "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+        "name": "Moscow Standard Time"
+    },
+    {
+        "id": "624",
+        "code": "Europe/Minsk",
+        "tag": "MSK",
+        "offset": 3,
+        "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
+        "name": "Moscow Standard Time"
+    },
+    {
+        "id": "630",
+        "code": "Europe/Astrakhan",
+        "tag": "SAMT",
+        "offset": 4,
+        "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+        "name": "Samara Time"
+    },
+    {
+        "id": "631",
+        "code": "Europe/Samara",
+        "tag": "SAMT",
+        "offset": 4,
+        "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+        "name": "Samara Time"
+    },
+    {
+        "id": "632",
+        "code": "Europe/Ulyanovsk",
+        "tag": "SAMT",
+        "offset": 4,
+        "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+        "name": "Samara Time"
+    },
+    {
+        "id": "640",
+        "code": "Asia/Tehran",
+        "tag": "IDT",
+        "offset": 4.5,
+        "text": "(UTC+03:30) Tehran",
+        "name": "Iran Standard Time"
+    },
+    {
+        "id": "650",
+        "code": "Asia/Dubai",
+        "tag": "AST",
+        "offset": 4,
+        "text": "(UTC+04:00) Abu Dhabi, Muscat",
+        "name": "Arabian Standard Time"
+    },
+    {
+        "id": "651",
+        "code": "Asia/Muscat",
+        "tag": "AST",
+        "offset": 4,
+        "text": "(UTC+04:00) Abu Dhabi, Muscat",
+        "name": "Arabian Standard Time"
+    },
+    {
+        "id": "652",
+        "code": "Etc/GMT-4",
+        "tag": "AST",
+        "offset": 4,
+        "text": "(UTC+04:00) Abu Dhabi, Muscat",
+        "name": "Arabian Standard Time"
+    },
+    {
+        "id": "660",
+        "code": "Asia/Baku",
+        "tag": "ADT",
+        "offset": 5,
+        "text": "(UTC+04:00) Baku",
+        "name": "Azerbaijan Standard Time"
+    },
+    {
+        "id": "670",
+        "code": "Indian/Mahe",
+        "tag": "MST",
+        "offset": 4,
+        "text": "(UTC+04:00) Port Louis",
+        "name": "Mauritius Standard Time"
+    },
+    {
+        "id": "671",
+        "code": "Indian/Mauritius",
+        "tag": "MST",
+        "offset": 4,
+        "text": "(UTC+04:00) Port Louis",
+        "name": "Mauritius Standard Time"
+    },
+    {
+        "id": "672",
+        "code": "Indian/Reunion",
+        "tag": "MST",
+        "offset": 4,
+        "text": "(UTC+04:00) Port Louis",
+        "name": "Mauritius Standard Time"
+    },
+    {
+        "id": "680",
+        "code": "Asia/Tbilisi",
+        "tag": "GET",
+        "offset": 4,
+        "text": "(UTC+04:00) Tbilisi",
+        "name": "Georgian Standard Time"
+    },
+    {
+        "id": "690",
+        "code": "Asia/Yerevan",
+        "tag": "CST",
+        "offset": 4,
+        "text": "(UTC+04:00) Yerevan",
+        "name": "Caucasus Standard Time"
+    },
+    {
+        "id": "700",
+        "code": "Asia/Kabul",
+        "tag": "AST",
+        "offset": 4.5,
+        "text": "(UTC+04:30) Kabul",
+        "name": "Afghanistan Standard Time"
+    },
+    {
+        "id": "710",
+        "code": "Antarctica/Mawson",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "711",
+        "code": "Asia/Aqtau",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "712",
+        "code": "Asia/Aqtobe",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "713",
+        "code": "Asia/Ashgabat",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "714",
+        "code": "Asia/Dushanbe",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "715",
+        "code": "Asia/Oral",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "716",
+        "code": "Asia/Samarkand",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "717",
+        "code": "Asia/Tashkent",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "718",
+        "code": "Etc/GMT-5",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "719",
+        "code": "Indian/Kerguelen",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "7110",
+        "code": "Indian/Maldives",
+        "tag": "WAST",
+        "offset": 5,
+        "text": "(UTC+05:00) Ashgabat, Tashkent",
+        "name": "West Asia Standard Time"
+    },
+    {
+        "id": "720",
+        "code": "Asia/Yekaterinburg",
+        "tag": "YEKT",
+        "offset": 5,
+        "text": "(UTC+05:00) Yekaterinburg",
+        "name": "Yekaterinburg Time"
+    },
+    {
+        "id": "730",
+        "code": "Asia/Karachi",
+        "tag": "PKT",
+        "offset": 5,
+        "text": "(UTC+05:00) Islamabad, Karachi",
+        "name": "Pakistan Standard Time"
+    },
+    {
+        "id": "740",
+        "code": "Asia/Kolkata",
+        "tag": "IST",
+        "offset": 5.5,
+        "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+        "name": "India Standard Time"
+    },
+    {
+        "id": "741",
+        "code": "Asia/Calcutta",
+        "tag": "IST",
+        "offset": 5.5,
+        "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+        "name": "India Standard Time"
+    },
+    {
+        "id": "750",
+        "code": "Asia/Colombo",
+        "tag": "SLST",
+        "offset": 5.5,
+        "text": "(UTC+05:30) Sri Jayawardenepura",
+        "name": "Sri Lanka Standard Time"
+    },
+    {
+        "id": "760",
+        "code": "Asia/Kathmandu",
+        "tag": "NST",
+        "offset": 5.75,
+        "text": "(UTC+05:45) Kathmandu",
+        "name": "Nepal Standard Time"
+    },
+    {
+        "id": "770",
+        "code": "Antarctica/Vostok",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "771",
+        "code": "Asia/Almaty",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "772",
+        "code": "Asia/Bishkek",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "773",
+        "code": "Asia/Qyzylorda",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "774",
+        "code": "Asia/Urumqi",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "775",
+        "code": "Etc/GMT-6",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "776",
+        "code": "Indian/Chagos",
+        "tag": "CAST",
+        "offset": 6,
+        "text": "(UTC+06:00) Nur-Sultan (Astana)",
+        "name": "Central Asia Standard Time"
+    },
+    {
+        "id": "780",
+        "code": "Asia/Dhaka",
+        "tag": "BST",
+        "offset": 6,
+        "text": "(UTC+06:00) Dhaka",
+        "name": "Bangladesh Standard Time"
+    },
+    {
+        "id": "781",
+        "code": "Asia/Thimphu",
+        "tag": "BST",
+        "offset": 6,
+        "text": "(UTC+06:00) Dhaka",
+        "name": "Bangladesh Standard Time"
+    },
+    {
+        "id": "790",
+        "code": "Asia/Rangoon",
+        "tag": "MST",
+        "offset": 6.5,
+        "text": "(UTC+06:30) Yangon (Rangoon)",
+        "name": "Myanmar Standard Time"
+    },
+    {
+        "id": "791",
+        "code": "Indian/Cocos",
+        "tag": "MST",
+        "offset": 6.5,
+        "text": "(UTC+06:30) Yangon (Rangoon)",
+        "name": "Myanmar Standard Time"
+    },
+    {
+        "id": "800",
+        "code": "Antarctica/Davis",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "801",
+        "code": "Asia/Bangkok",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "802",
+        "code": "Asia/Hovd",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "803",
+        "code": "Asia/Jakarta",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "804",
+        "code": "Asia/Phnom_Penh",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "805",
+        "code": "Asia/Pontianak",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "806",
+        "code": "Asia/Saigon",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "807",
+        "code": "Asia/Vientiane",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "808",
+        "code": "Etc/GMT-7",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "809",
+        "code": "Indian/Christmas",
+        "tag": "SAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "name": "SE Asia Standard Time"
+    },
+    {
+        "id": "810",
+        "code": "Asia/Novokuznetsk",
+        "tag": "NCAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Novosibirsk",
+        "name": "N. Central Asia Standard Time"
+    },
+    {
+        "id": "811",
+        "code": "Asia/Novosibirsk",
+        "tag": "NCAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Novosibirsk",
+        "name": "N. Central Asia Standard Time"
+    },
+    {
+        "id": "812",
+        "code": "Asia/Omsk",
+        "tag": "NCAST",
+        "offset": 7,
+        "text": "(UTC+07:00) Novosibirsk",
+        "name": "N. Central Asia Standard Time"
+    },
+    {
+        "id": "820",
+        "code": "Asia/Hong_Kong",
+        "tag": "CST",
+        "offset": 8,
+        "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+        "name": "China Standard Time"
+    },
+    {
+        "id": "821",
+        "code": "Asia/Macau",
+        "tag": "CST",
+        "offset": 8,
+        "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+        "name": "China Standard Time"
+    },
+    {
+        "id": "822",
+        "code": "Asia/Shanghai",
+        "tag": "CST",
+        "offset": 8,
+        "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+        "name": "China Standard Time"
+    },
+    {
+        "id": "830",
+        "code": "Asia/Krasnoyarsk",
+        "tag": "NAST",
+        "offset": 8,
+        "text": "(UTC+08:00) Krasnoyarsk",
+        "name": "North Asia Standard Time"
+    },
+    {
+        "id": "840",
+        "code": "Asia/Brunei",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "841",
+        "code": "Asia/Kuala_Lumpur",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "842",
+        "code": "Asia/Kuching",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "843",
+        "code": "Asia/Makassar",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "844",
+        "code": "Asia/Manila",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "845",
+        "code": "Asia/Singapore",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "846",
+        "code": "Etc/GMT-8",
+        "tag": "MPST",
+        "offset": 8,
+        "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+        "name": "Singapore Standard Time"
+    },
+    {
+        "id": "850",
+        "code": "Antarctica/Casey",
+        "tag": "WAST",
+        "offset": 8,
+        "text": "(UTC+08:00) Perth",
+        "name": "W. Australia Standard Time"
+    },
+    {
+        "id": "851",
+        "code": "Australia/Perth",
+        "tag": "WAST",
+        "offset": 8,
+        "text": "(UTC+08:00) Perth",
+        "name": "W. Australia Standard Time"
+    },
+    {
+        "id": "860",
+        "code": "Asia/Taipei",
+        "tag": "TST",
+        "offset": 8,
+        "text": "(UTC+08:00) Taipei",
+        "name": "Taipei Standard Time"
+    },
+    {
+        "id": "870",
+        "code": "Asia/Choibalsan",
+        "tag": "UST",
+        "offset": 8,
+        "text": "(UTC+08:00) Ulaanbaatar",
+        "name": "Ulaanbaatar Standard Time"
+    },
+    {
+        "id": "871",
+        "code": "Asia/Ulaanbaatar",
+        "tag": "UST",
+        "offset": 8,
+        "text": "(UTC+08:00) Ulaanbaatar",
+        "name": "Ulaanbaatar Standard Time"
+    },
+    {
+        "id": "880",
+        "code": "Asia/Irkutsk",
+        "tag": "NAEST",
+        "offset": 8,
+        "text": "(UTC+08:00) Irkutsk",
+        "name": "North Asia East Standard Time"
+    },
+    {
+        "id": "890",
+        "code": "Asia/Dili",
+        "tag": "JST",
+        "offset": 9,
+        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "name": "Japan Standard Time"
+    },
+    {
+        "id": "891",
+        "code": "Asia/Jayapura",
+        "tag": "JST",
+        "offset": 9,
+        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "name": "Japan Standard Time"
+    },
+    {
+        "id": "892",
+        "code": "Asia/Tokyo",
+        "tag": "JST",
+        "offset": 9,
+        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "name": "Japan Standard Time"
+    },
+    {
+        "id": "893",
+        "code": "Etc/GMT-9",
+        "tag": "JST",
+        "offset": 9,
+        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "name": "Japan Standard Time"
+    },
+    {
+        "id": "894",
+        "code": "Pacific/Palau",
+        "tag": "JST",
+        "offset": 9,
+        "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "name": "Japan Standard Time"
+    },
+    {
+        "id": "900",
+        "code": "Asia/Pyongyang",
+        "tag": "KST",
+        "offset": 9,
+        "text": "(UTC+09:00) Seoul",
+        "name": "Korea Standard Time"
+    },
+    {
+        "id": "901",
+        "code": "Asia/Seoul",
+        "tag": "KST",
+        "offset": 9,
+        "text": "(UTC+09:00) Seoul",
+        "name": "Korea Standard Time"
+    },
+    {
+        "id": "910",
+        "code": "Australia/Adelaide",
+        "tag": "CAST",
+        "offset": 9.5,
+        "text": "(UTC+09:30) Adelaide",
+        "name": "Cen. Australia Standard Time"
+    },
+    {
+        "id": "911",
+        "code": "Australia/Broken_Hill",
+        "tag": "CAST",
+        "offset": 9.5,
+        "text": "(UTC+09:30) Adelaide",
+        "name": "Cen. Australia Standard Time"
+    },
+    {
+        "id": "920",
+        "code": "Australia/Darwin",
+        "tag": "ACST",
+        "offset": 9.5,
+        "text": "(UTC+09:30) Darwin",
+        "name": "AUS Central Standard Time"
+    },
+    {
+        "id": "930",
+        "code": "Australia/Brisbane",
+        "tag": "EAST",
+        "offset": 10,
+        "text": "(UTC+10:00) Brisbane",
+        "name": "E. Australia Standard Time"
+    },
+    {
+        "id": "931",
+        "code": "Australia/Lindeman",
+        "tag": "EAST",
+        "offset": 10,
+        "text": "(UTC+10:00) Brisbane",
+        "name": "E. Australia Standard Time"
+    },
+    {
+        "id": "940",
+        "code": "Australia/Melbourne",
+        "tag": "AEST",
+        "offset": 10,
+        "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+        "name": "AUS Eastern Standard Time"
+    },
+    {
+        "id": "941",
+        "code": "Australia/Sydney",
+        "tag": "AEST",
+        "offset": 10,
+        "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+        "name": "AUS Eastern Standard Time"
+    },
+    {
+        "id": "950",
+        "code": "Antarctica/DumontDUrville",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "951",
+        "code": "Etc/GMT-10",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "952",
+        "code": "Pacific/Guam",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "953",
+        "code": "Pacific/Port_Moresby",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "954",
+        "code": "Pacific/Saipan",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "955",
+        "code": "Pacific/Truk",
+        "tag": "WPST",
+        "offset": 10,
+        "text": "(UTC+10:00) Guam, Port Moresby",
+        "name": "West Pacific Standard Time"
+    },
+    {
+        "id": "960",
+        "code": "Australia/Currie",
+        "tag": "TST",
+        "offset": 10,
+        "text": "(UTC+10:00) Hobart",
+        "name": "Tasmania Standard Time"
+    },
+    {
+        "id": "961",
+        "code": "Australia/Hobart",
+        "tag": "TST",
+        "offset": 10,
+        "text": "(UTC+10:00) Hobart",
+        "name": "Tasmania Standard Time"
+    },
+    {
+        "id": "970",
+        "code": "Asia/Chita",
+        "tag": "YST",
+        "offset": 9,
+        "text": "(UTC+09:00) Yakutsk",
+        "name": "Yakutsk Standard Time"
+    },
+    {
+        "id": "971",
+        "code": "Asia/Khandyga",
+        "tag": "YST",
+        "offset": 9,
+        "text": "(UTC+09:00) Yakutsk",
+        "name": "Yakutsk Standard Time"
+    },
+    {
+        "id": "972",
+        "code": "Asia/Yakutsk",
+        "tag": "YST",
+        "offset": 9,
+        "text": "(UTC+09:00) Yakutsk",
+        "name": "Yakutsk Standard Time"
+    },
+    {
+        "id": "980",
+        "code": "Antarctica/Macquarie",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "981",
+        "code": "Etc/GMT-11",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "982",
+        "code": "Pacific/Efate",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "983",
+        "code": "Pacific/Guadalcanal",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "984",
+        "code": "Pacific/Kosrae",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "985",
+        "code": "Pacific/Noumea",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "986",
+        "code": "Pacific/Ponape",
+        "tag": "CPST",
+        "offset": 11,
+        "text": "(UTC+11:00) Solomon Is., New Caledonia",
+        "name": "Central Pacific Standard Time"
+    },
+    {
+        "id": "990",
+        "code": "Asia/Sakhalin",
+        "tag": "VST",
+        "offset": 11,
+        "text": "(UTC+11:00) Vladivostok",
+        "name": "Vladivostok Standard Time"
+    },
+    {
+        "id": "991",
+        "code": "Asia/Ust-Nera",
+        "tag": "VST",
+        "offset": 11,
+        "text": "(UTC+11:00) Vladivostok",
+        "name": "Vladivostok Standard Time"
+    },
+    {
+        "id": "992",
+        "code": "Asia/Vladivostok",
+        "tag": "VST",
+        "offset": 11,
+        "text": "(UTC+11:00) Vladivostok",
+        "name": "Vladivostok Standard Time"
+    },
+    {
+        "id": "1000",
+        "code": "Antarctica/McMurdo",
+        "tag": "NZST",
+        "offset": 12,
+        "text": "(UTC+12:00) Auckland, Wellington",
+        "name": "New Zealand Standard Time"
+    },
+    {
+        "id": "1001",
+        "code": "Pacific/Auckland",
+        "tag": "NZST",
+        "offset": 12,
+        "text": "(UTC+12:00) Auckland, Wellington",
+        "name": "New Zealand Standard Time"
+    },
+    {
+        "id": "1010",
+        "code": "Etc/GMT-12",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1011",
+        "code": "Pacific/Funafuti",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1012",
+        "code": "Pacific/Kwajalein",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1013",
+        "code": "Pacific/Majuro",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1014",
+        "code": "Pacific/Nauru",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1015",
+        "code": "Pacific/Tarawa",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1016",
+        "code": "Pacific/Wake",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1017",
+        "code": "Pacific/Wallis",
+        "tag": "U",
+        "offset": 12,
+        "text": "(UTC+12:00) Coordinated Universal Time+12",
+        "name": "UTC+12"
+    },
+    {
+        "id": "1020",
+        "code": "Pacific/Fiji",
+        "tag": "FST",
+        "offset": 12,
+        "text": "(UTC+12:00) Fiji",
+        "name": "Fiji Standard Time"
+    },
+    {
+        "id": "1030",
+        "code": "Asia/Anadyr",
+        "tag": "MST",
+        "offset": 12,
+        "text": "(UTC+12:00) Magadan",
+        "name": "Magadan Standard Time"
+    },
+    {
+        "id": "1031",
+        "code": "Asia/Kamchatka",
+        "tag": "MST",
+        "offset": 12,
+        "text": "(UTC+12:00) Magadan",
+        "name": "Magadan Standard Time"
+    },
+    {
+        "id": "1032",
+        "code": "Asia/Magadan",
+        "tag": "MST",
+        "offset": 12,
+        "text": "(UTC+12:00) Magadan",
+        "name": "Magadan Standard Time"
+    },
+    {
+        "id": "1033",
+        "code": "Asia/Srednekolymsk",
+        "tag": "MST",
+        "offset": 12,
+        "text": "(UTC+12:00) Magadan",
+        "name": "Magadan Standard Time"
+    },
+    {
+        "id": "1040",
+        "code": "Asia/Kamchatka",
+        "tag": "KDT",
+        "offset": 13,
+        "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
+        "name": "Kamchatka Standard Time"
+    },
+    {
+        "id": "1050",
+        "code": "Etc/GMT-13",
+        "tag": "TST",
+        "offset": 13,
+        "text": "(UTC+13:00) Nuku'alofa",
+        "name": "Tonga Standard Time"
+    },
+    {
+        "id": "1051",
+        "code": "Pacific/Enderbury",
+        "tag": "TST",
+        "offset": 13,
+        "text": "(UTC+13:00) Nuku'alofa",
+        "name": "Tonga Standard Time"
+    },
+    {
+        "id": "1052",
+        "code": "Pacific/Fakaofo",
+        "tag": "TST",
+        "offset": 13,
+        "text": "(UTC+13:00) Nuku'alofa",
+        "name": "Tonga Standard Time"
+    },
+    {
+        "id": "1053",
+        "code": "Pacific/Tongatapu",
+        "tag": "TST",
+        "offset": 13,
+        "text": "(UTC+13:00) Nuku'alofa",
+        "name": "Tonga Standard Time"
+    },
+    {
+        "id": "1060",
+        "code": "Pacific/Apia",
+        "tag": "SST",
+        "offset": 13,
+        "text": "(UTC+13:00) Samoa",
+        "name": "Samoa Standard Time"
+    }
+]

@@ -1,13 +1,92 @@
+:root {
+  --color-white: #ffffff;
+  --color-black: #000000;
+}
+
+[data-theme='light'],
+:root {
+  --color-primary: #1d2331;
+  --color-primary-dark: #161b25;
+  --color-primary-light: #363636;
+
+  --color-brand: #3b82f6;
+  --color-brand-dark: #2563eb;
+
+  --color-brand-invert: #ffffff;
+
+  --color-warning: #ecc94b;
+  --color-danger: #f56565;
+
+  --color-space: #edf2f7;
+  --color-space-light: #f8f9ff;
+
+  --color-grey: #e2e8f0;
+  --color-grey-dark: #cbd5e0;
+
+  --color-card: #fefefe;
+  --color-invert: #ffffff;
+}
+
+@media (prefers-color-schema: dark) {
+  :root {
+    --color-primary: #edf2f7;
+    --color-primary-dark: #e2e8f0;
+    --color-primary-light: #f7fafc;
+
+    --color-brand: #3b82f6;
+    --color-brand-dark: #5694f8;
+
+    --color-brand-invert: #ffffff;
+
+    --color-warning: #ecc94b;
+    --color-danger: #f56565;
+
+    --color-space: #1d2331;
+    --color-space-light: #161b25;
+
+    --color-grey: #273043;
+    --color-grey-dark: #384151;
+
+    --color-card: #11151d;
+    --color-invert: #121212;
+  }
+}
+
+[data-theme='dark'] {
+  --color-primary: #edf2f7;
+  --color-primary-dark: #e2e8f0;
+  --color-primary-light: #f7fafc;
+
+  --color-brand: #3b82f6;
+  --color-brand-dark: #5694f8;
+
+  --color-brand-invert: #ffffff;
+
+  --color-warning: #ecc94b;
+  --color-danger: #f56565;
+
+  --color-space: #1d2331;
+  --color-space-light: #161b25;
+
+  --color-grey: #273043;
+  --color-grey-dark: #384151;
+
+  --color-card: #11151d;
+  --color-invert: #121212;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: var(--color-primary);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
