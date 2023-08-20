@@ -1,7 +1,7 @@
-import PropTypes from 'prop-types';
-import { MinusCircleIcon } from '@heroicons/react/outline';
+import PropTypes from "prop-types";
+import { MinusCircleIcon } from "@heroicons/react/24/outline";
 
-import { getDateTime } from 'common/utils/dayjs';
+import { getDateTime } from "@/common/utils/dayjs";
 
 const TimeCard = ({ tz, handleDelete, ts }) => (
   <div className="w-full px-2 py-4 sm:w-1/2 md:w-1/3">
@@ -18,16 +18,16 @@ const TimeCard = ({ tz, handleDelete, ts }) => (
       </div>
       <div className="py-4">
         <div className="font-semibold text-primary-light">
-          {getDateTime(ts, 'DD MMMM YYYY', tz.code)}
+          {getDateTime(ts, "DD MMMM YYYY", tz.code)}
         </div>
         <div className="pt-2 text-3xl font-bold">
-          {getDateTime(ts, 'LTS', tz.code)}
+          {getDateTime(ts, "LTS", tz.code)}
         </div>
       </div>
       <div className="flex justify-between text-xs text-primary-light">
-        <div>{getDateTime(ts, 'zzz', tz.code)}</div>
+        <div>{getDateTime(ts, "zzz", tz.code)}</div>
         <div className="font-semibold text-brand">
-          {getDateTime(ts, 'Z', tz.code)}
+          {getDateTime(ts, "Z", tz.code)}
           <span className="text-primary-light"> UTC</span>
         </div>
       </div>
@@ -36,7 +36,7 @@ const TimeCard = ({ tz, handleDelete, ts }) => (
 );
 
 TimeCard.defaultProps = {
-  tz: '',
+  tz: "",
   handleDelete: () => {},
 };
 

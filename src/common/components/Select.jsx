@@ -1,11 +1,10 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import PropTypes from 'prop-types';
-import cx from 'classnames';
+import PropTypes from "prop-types";
+import cx from "@/common/utils/helpers";
 
 const Select = ({ className, label, name, ...props }) => (
   <div className="w-full">
     {label && (
-      // eslint-disable-next-line jsx-a11y/label-has-associated-control
       <label
         htmlFor={name}
         className="block pb-2 text-sm font-semibold text-secondary-light"
@@ -15,8 +14,8 @@ const Select = ({ className, label, name, ...props }) => (
     )}
     <select
       className={cx(
-        'focus:ring-grey-light w-full rounded border-2 bg-space px-2 py-3 font-medium shadow-sm transition-all focus:border-brand',
-        className,
+        "focus:ring-grey-light w-full rounded border-2 bg-space px-2 py-3 font-medium shadow-sm transition-all focus:border-brand",
+        className
       )}
       {...props}
     />
@@ -24,9 +23,9 @@ const Select = ({ className, label, name, ...props }) => (
 );
 
 Select.defaultProps = {
-  className: '',
-  label: '',
-  name: '',
+  className: "",
+  label: "",
+  name: "",
 };
 
 Select.propTypes = {

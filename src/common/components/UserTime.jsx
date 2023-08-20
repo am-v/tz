@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
-import { getTimezone, getDateTime } from 'common/utils/dayjs';
+import { getTimezone, getDateTime } from "@/common/utils/dayjs";
 
 const UserTime = ({ ts }) => (
   <div className="flex w-full flex-col items-center justify-between">

@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
-import { SunIcon, MoonIcon } from '@heroicons/react/outline';
-import { Transition } from '@headlessui/react';
+import PropTypes from "prop-types";
+import { SunIcon, MoonIcon } from "@heroicons/react/24/outline";
+import { Transition } from "@headlessui/react";
 
 const Navigation = ({ theme, handleThemeChange }) => (
   <div className="h-16 w-full bg-space-light px-3">
@@ -32,7 +32,7 @@ const Navigation = ({ theme, handleThemeChange }) => (
             className="absolute h-6 w-6 overflow-hidden focus:outline-none"
           >
             <Transition
-              show={theme === 'light'}
+              show={theme === "light"}
               enter="transition-transform duration-1000"
               enterFrom="rotate-0"
               enterTo="rotate-360"
@@ -40,7 +40,7 @@ const Navigation = ({ theme, handleThemeChange }) => (
               <MoonIcon className="h-6" />
             </Transition>
             <Transition
-              show={theme === 'dark'}
+              show={theme === "dark"}
               enter="transition-transform duration-1000"
               enterFrom="rotate-0"
               enterTo="rotate-180"
@@ -55,7 +55,7 @@ const Navigation = ({ theme, handleThemeChange }) => (
 );
 
 Navigation.defaultProps = {
-  theme: 'dark',
+  theme: "dark",
   handleThemeChange: () => {},
 };
 

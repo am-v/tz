@@ -1,7 +1,7 @@
-import { Fragment } from 'react';
-import PropTypes from 'prop-types';
-import { Dialog, Transition } from '@headlessui/react';
-import cx from 'classnames';
+import { Fragment } from "react";
+import PropTypes from "prop-types";
+import { Dialog, Transition } from "@headlessui/react";
+import cx from "@/common/utils/helpers";
 
 const Modal = ({ title, children, className, isActive, onClose, theme }) => (
   <Transition appear show={isActive} as={Fragment}>
@@ -38,9 +38,9 @@ const Modal = ({ title, children, className, isActive, onClose, theme }) => (
         >
           <div
             className={cx(
-              'my-8 inline-block w-full transform overflow-hidden rounded-xl bg-space-light text-left align-middle text-primary shadow transition-all',
+              "my-8 inline-block w-full transform overflow-hidden rounded-xl bg-space-light text-left align-middle text-primary shadow transition-all",
               className,
-              { 'max-w-lg': !className },
+              { "max-w-lg": !className }
             )}
           >
             {title && (
@@ -60,9 +60,9 @@ const Modal = ({ title, children, className, isActive, onClose, theme }) => (
 );
 
 Modal.defaultProps = {
-  className: '',
+  className: "",
   isActive: false,
-  theme: 'dark',
+  theme: "dark",
   onClose: () => {},
 };
 

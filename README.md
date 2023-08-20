@@ -1,9 +1,11 @@
 ![Logo](https://raw.githubusercontent.com/am-v/tz/master/tz.png)
+
 # TZ
 
-This web application was built with React using create-react-app. It provides the current time in various time zones around the world, allowing users to easily stay updated on global time differences.
+This web application was built with React using vite. It provides the current time in various time zones around the world, allowing users to easily stay updated on global time differences.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -42,10 +44,10 @@ npm install
 1. Start the application:
 
 ```bash
-npm start
+npm run dev
 ```
 
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
+2. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the application.
 
 ## Contributing
 
