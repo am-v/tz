@@ -1,25 +1,25 @@
-import { useState, useEffect, useMemo } from 'react';
-import PropTypes from 'prop-types';
-import produce from 'immer';
-import { PlusIcon } from '@heroicons/react/outline';
+import { useState, useEffect, useMemo } from "react";
+import PropTypes from "prop-types";
+import { produce } from "immer";
+import { PlusIcon } from "@heroicons/react/24/outline";
 
-import Button from 'common/components/Buttons';
-import Modal from 'common/components/Modal';
-import ComboBox from 'common/components/ComboBox';
-import TimeCard from 'common/components/TimeCard';
+import Button from "@/common/components/Buttons";
+import Modal from "@/common/components/Modal";
+import ComboBox from "@/common/components/ComboBox";
+import TimeCard from "@/common/components/TimeCard";
 
 const RemoteTime = ({ theme, ts }) => {
   const [showModal, setShowModal] = useState(false);
   const [selectedOption, setSelectedOption] = useState({
-    id: '99999',
-    code: '',
-    name: '',
+    id: "99999",
+    code: "",
+    name: "",
   });
   const [timezones, setTimezones] = useState([]);
 
   useEffect(() => {
-    const tzString = localStorage.getItem('tz');
-    const tzArray = JSON.parse(tzString || '[]');
+    const tzString = localStorage.getItem("tz");
+    const tzArray = JSON.parse(tzString || "[]");
     setTimezones(tzArray);
   }, []);
 
@@ -30,7 +30,7 @@ const RemoteTime = ({ theme, ts }) => {
         const nextState = produce(timezones, (draft) => {
           draft.push(selectedOption);
         });
-        localStorage.setItem('tz', JSON.stringify(nextState));
+        localStorage.setItem("tz", JSON.stringify(nextState));
         setTimezones(nextState);
       }
       setShowModal(false);
@@ -43,7 +43,7 @@ const RemoteTime = ({ theme, ts }) => {
       const nextState = produce(timezones, (draft) => {
         draft.splice(idx, 1);
       });
-      localStorage.setItem('tz', JSON.stringify(nextState));
+      localStorage.setItem("tz", JSON.stringify(nextState));
       setTimezones(nextState);
     }
   };
@@ -120,11 +120,11 @@ export const MemorizedModal = ({
       </Modal>
     ),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [showModal, theme, selectedOption],
+    [showModal, theme, selectedOption]
   );
 
 RemoteTime.defaultProps = {
-  theme: 'dark',
+  theme: "dark",
 };
 
 RemoteTime.propTypes = {

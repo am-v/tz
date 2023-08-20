@@ -4,24 +4,27 @@
 /* eslint-disable operator-linebreak */
 /* eslint-disable implicit-arrow-linebreak */
 /* eslint-disable indent */
-import { Fragment, useState } from 'react';
-import { Combobox, Transition } from '@headlessui/react';
-import { CheckIcon, SelectorIcon } from '@heroicons/react/solid';
+import { Fragment, useState } from "react";
+import { Combobox, Transition } from "@headlessui/react";
+import {
+  CheckIcon,
+  ChevronUpDownIcon as SelectorIcon,
+} from "@heroicons/react/24/solid";
 
-import tzs from 'common/constants/tzx.json';
+import tzs from "@/common/constants/tzx.json";
 
 const ComboBox = ({ selectedItem, setSelectedItem }) => {
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState("");
 
   const filterList =
-    query === ''
+    query === ""
       ? tzs
       : tzs.filter((tz) => {
           if (query.length > 2) {
             return tz.term
               .toLowerCase()
-              .replace(/\s+/g, '')
-              .includes(query.toLowerCase().replace(/\s+/g, ''));
+              .replace(/\s+/g, "")
+              .includes(query.toLowerCase().replace(/\s+/g, ""));
           }
           return false;
         });
@@ -47,10 +50,10 @@ const ComboBox = ({ selectedItem, setSelectedItem }) => {
           leave="transition ease-in duration-50"
           leaveFrom="opacity-100"
           leaveTo="opacity-0"
-          afterLeave={() => setQuery('')}
+          afterLeave={() => setQuery("")}
         >
           <Combobox.Options className="shadow-xs absolute mt-1 max-h-44 w-full overflow-auto rounded border-2 border-grey-dark bg-card py-1 focus:outline-none">
-            {filterList.length === 0 && query !== '' ? (
+            {filterList.length === 0 && query !== "" ? (
               <div className="relative cursor-default select-none py-2 px-4 text-primary-light">
                 Nothing found 😟.
               </div>
@@ -61,8 +64,8 @@ const ComboBox = ({ selectedItem, setSelectedItem }) => {
                   className={({ active }) =>
                     `relative cursor-default select-none py-2 pl-10 pr-4 text-sm ${
                       active
-                        ? 'bg-brand text-brand-invert'
-                        : 'text-primary-light'
+                        ? "bg-brand text-brand-invert"
+                        : "text-primary-light"
                     }`
                   }
                   value={item}
@@ -71,7 +74,7 @@ const ComboBox = ({ selectedItem, setSelectedItem }) => {
                     <>
                       <span
                         className={`block truncate ${
-                          selected ? 'font-medium' : 'font-normal'
+                          selected ? "font-medium" : "font-normal"
                         }`}
                       >
                         {item.code}
@@ -79,7 +82,7 @@ const ComboBox = ({ selectedItem, setSelectedItem }) => {
                       {selected ? (
                         <span
                           className={`absolute inset-y-0 left-0 flex items-center pl-3 ${
-                            active ? 'text-white' : 'text-brand'
+                            active ? "text-white" : "text-brand"
                           }`}
                         >
                           <CheckIcon className="h-5 w-5" aria-hidden="true" />

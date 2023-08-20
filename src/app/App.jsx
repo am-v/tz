@@ -1,25 +1,25 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
-import Navigation from 'common/components/Navigation';
-import UserTime from 'common/components/UserTime';
-import RemoteTime from 'common/components/RemoteTime';
+import Navigation from "@/common/components/Navigation";
+import UserTime from "@/common/components/UserTime";
+import RemoteTime from "@/common/components/RemoteTime";
 
-import getSystemTheme from 'common/utils/systemTheme';
-import { getTimestamp } from 'common/utils/dayjs';
+import getSystemTheme from "@/common/utils/systemTheme";
+import { getTimestamp } from "@/common/utils/dayjs";
 
 const systemTheme = getSystemTheme();
 
-const version = '1';
+const version = "1";
 
 const App = () => {
   const [theme, setTheme] = useState(systemTheme);
   const [ts, setTs] = useState(getTimestamp());
 
   useEffect(() => {
-    const currentVersion = localStorage.getItem('version');
+    const currentVersion = localStorage.getItem("version");
     if (currentVersion !== version) {
       localStorage.clear();
-      localStorage.setItem('version', version);
+      localStorage.setItem("version", version);
     }
 
     const timer = setInterval(() => {
@@ -30,7 +30,7 @@ const App = () => {
     };
   }, []);
 
-  const handleThemeChange = () => setTheme(theme === 'dark' ? 'light' : 'dark');
+  const handleThemeChange = () => setTheme(theme === "dark" ? "light" : "dark");
   return (
     <div
       className="h-full min-h-screen w-full bg-space text-primary-dark"
